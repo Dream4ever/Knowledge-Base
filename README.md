@@ -15,6 +15,8 @@
 
 ## Front-end | 前端
 
+:construction: [前端页面文本搜索及高亮](https://github.com/Dream4ever/knowledge-base/issues/4)
+
 :white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
 
 :white_check_mark: [移动端点击表单元素后弹出输入法遮盖界面](https://github.com/Dream4ever/knowledge-base/issues/40)
