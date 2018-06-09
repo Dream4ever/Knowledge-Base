@@ -14,12 +14,15 @@
 ## JavaScript
 
 :white_check_mark: [网页导出数据至 Excel](https://github.com/Dream4ever/knowledge-base/issues/14)
+
 :white_check_mark: [生成不重复的随机字符串](https://github.com/Dream4ever/knowledge-base/issues/19)
+
 :white_check_mark: [vue-cli 引用 CSS 库](https://github.com/Dream4ever/knowledge-base/issues/28)
 
 ## Front-end | 前端
 
 :white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
+
 :white_check_mark: [iOS 页面滚动光标不跟随](https://github.com/Dream4ever/knowledge-base/issues/29)
 
 ### UI | 用户界面
