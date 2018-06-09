@@ -13,22 +13,6 @@
 
 :white_check_mark: [项目架构梳理](https://github.com/Dream4ever/knowledge-base/issues/21)
 
-## JavaScript
-
-:white_check_mark: [网页导出数据至 Excel](https://github.com/Dream4ever/knowledge-base/issues/14)
-
-:white_check_mark: [生成不重复的随机字符串](https://github.com/Dream4ever/knowledge-base/issues/19)
-
-### Vue-Cli
-
-:white_check_mark: [vue-cli 引入外部 JS 库的两种方式](https://github.com/Dream4ever/knowledge-base/issues/36)
-
-:white_check_mark: [vue-cli 引用 CSS 库](https://github.com/Dream4ever/knowledge-base/issues/28)
-
-:white_check_mark: [vue-cli CSS 背景图片路径设置](https://github.com/Dream4ever/knowledge-base/issues/33)
-
-:white_check_mark: [vue-js-modal 正确用法](https://github.com/Dream4ever/knowledge-base/issues/35)
-
 ## Front-end | 前端
 
 :white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
@@ -47,11 +31,31 @@
 
 :white_check_mark: [优选移动端 UI 框架](https://github.com/Dream4ever/knowledge-base/issues/10)
 
+:white_check_mark: [Skeleton Screen Loading](https://github.com/Dream4ever/knowledge-base/issues/2)
+
 ### WeChat | 微信
 
 :white_check_mark: [微信 JS-SDK 接口调用](https://github.com/Dream4ever/knowledge-base/issues/41)
 
 :lock: [微信公众号文章展示 HTML 页面](https://github.com/Dream4ever/knowledge-base/issues/1)
+
+## JavaScript
+
+:white_check_mark: [网页导出数据至 Excel](https://github.com/Dream4ever/knowledge-base/issues/14)
+
+:white_check_mark: [生成不重复的随机字符串](https://github.com/Dream4ever/knowledge-base/issues/19)
+
+:white_check_mark: [CNZZ](https://github.com/Dream4ever/knowledge-base/issues/3)
+
+### Vue-Cli
+
+:white_check_mark: [vue-cli 引入外部 JS 库的两种方式](https://github.com/Dream4ever/knowledge-base/issues/36)
+
+:white_check_mark: [vue-cli 引用 CSS 库](https://github.com/Dream4ever/knowledge-base/issues/28)
+
+:white_check_mark: [vue-cli CSS 背景图片路径设置](https://github.com/Dream4ever/knowledge-base/issues/33)
+
+:white_check_mark: [vue-js-modal 正确用法](https://github.com/Dream4ever/knowledge-base/issues/35)
 
 ## Back-end | 后端
 
