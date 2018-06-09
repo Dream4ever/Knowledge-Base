@@ -51,7 +51,7 @@
 
 ## Back-end | 后端
 
-:white_check_mark: [启动带 ES6 的 Express 项目](https://github.com/Dream4ever/knowledge-base/issues/27)
+:white_check_mark: [让 Express 支持 ES6](https://github.com/Dream4ever/knowledge-base/issues/27)
 
 :white_check_mark: [Mongoose 异步执行](https://github.com/Dream4ever/knowledge-base/issues/32)
 
