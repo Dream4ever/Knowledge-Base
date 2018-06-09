@@ -1,13 +1,14 @@
 # Knowledge Base | 知识库
 
-<details><summary>Explanation | 图例说明</summary>
+Explanation | 图例说明
 
-- :white_check_mark: : finished | 已完成
-- :construction: : ongoing | 进行中
-- :lock: : to do | 待完成
-- :recycle: : cancelled | 已放弃
-
-</details>
+> - :white_check_mark: : finished | 已完成
+>
+> - :construction: : ongoing | 进行中
+>
+> - :lock: : to do | 待完成
+>
+> - :recycle: : cancelled | 已放弃
 
 ## Methodology | 方法论
 
