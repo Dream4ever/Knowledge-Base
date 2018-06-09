@@ -1,11 +1,13 @@
 # Knowledge Base | 知识库
 
-## Explanation | 图例说明
+<details><summary>Explanation | 图例说明</summary>
 
 - :white_check_mark: : finished | 已完成
 - :construction: : ongoing | 进行中
 - :package: : archived | 已存档
 - :lock: : cancelled | 已放弃
+
+</details>
 
 ## Methodology | 方法论
 
