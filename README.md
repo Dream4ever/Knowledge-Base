@@ -1,9 +1,8 @@
-# Business Knowledge Base
+# Knowledge Base
 
-Business requirements and corresponding solutions are recorded here.
+## Explanation
 
-Click the link: [https://github.com/Dream4ever/business-knowledge-base/projects/1?fullscreen=true](https://github.com/Dream4ever/business-knowledge-base/projects/1?fullscreen=true)
-
-这里记录了公司业务中遇到的各种需求，和对应的解决方案。
-
-链接：[https://github.com/Dream4ever/business-knowledge-base/projects/1?fullscreen=true](https://github.com/Dream4ever/business-knowledge-base/projects/1?fullscreen=true)
+- :white_check_mark: stand for finished one
+- :construction: stand for ongoing one
+- :package: stand for archived one
+- :lock: stand for cancelled one
