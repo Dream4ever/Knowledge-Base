@@ -33,6 +33,8 @@
 
 :white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
 
+:white_check_mark: [移动端点击表单元素后弹出输入法遮盖界面](https://github.com/Dream4ever/knowledge-base/issues/40)
+
 :white_check_mark: [iOS 页面滚动光标不跟随](https://github.com/Dream4ever/knowledge-base/issues/29)
 
 :white_check_mark: [iOS 视频自动播放](https://github.com/Dream4ever/knowledge-base/issues/30)
@@ -46,6 +48,8 @@
 :white_check_mark: [优选移动端 UI 框架](https://github.com/Dream4ever/knowledge-base/issues/10)
 
 ### WeChat | 微信
+
+:white_check_mark: [微信 JS-SDK 接口调用](https://github.com/Dream4ever/knowledge-base/issues/41)
 
 :lock: [微信公众号文章展示 HTML 页面](https://github.com/Dream4ever/knowledge-base/issues/1)
 
