@@ -6,9 +6,9 @@ Explanation | 图例说明
 >
 > - :construction: : ongoing | 进行中
 >
-> - :lock: : to do | 待完成
+> - :memo: : to do | 待完成
 >
-> - :recycle: : cancelled | 已放弃
+> - :fire: : cancelled | 已放弃
 
 ## Methodology | 方法论
 
@@ -16,7 +16,7 @@ Explanation | 图例说明
 
 ## Front-end | 前端
 
-:lock: [前端页面文本搜索及高亮](https://github.com/Dream4ever/knowledge-base/issues/4)
+:memo: [前端页面文本搜索及高亮](https://github.com/Dream4ever/knowledge-base/issues/4)
 
 :white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
 
@@ -40,7 +40,7 @@ Explanation | 图例说明
 
 :white_check_mark: [微信 JS-SDK 接口调用](https://github.com/Dream4ever/knowledge-base/issues/41)
 
-:recycle: [微信公众号文章展示 HTML 页面](https://github.com/Dream4ever/knowledge-base/issues/1)
+:fire: [微信公众号文章展示 HTML 页面](https://github.com/Dream4ever/knowledge-base/issues/1)
 
 ## JavaScript
 
