@@ -30,8 +30,6 @@ Explanation | 图例说明
 
 :white_check_mark: [浏览器控制台 get favicon.ico 404 提示](https://github.com/Dream4ever/knowledge-base/issues/34)
 
-### UI | 用户界面
-
 :white_check_mark: [优选移动端 UI 框架](https://github.com/Dream4ever/knowledge-base/issues/10)
 
 :white_check_mark: [Skeleton Screen Loading](https://github.com/Dream4ever/knowledge-base/issues/2)
@@ -44,6 +42,8 @@ Explanation | 图例说明
 
 ## JavaScript
 
+:memo: [JS 实现文本复制功能](https://github.com/Dream4ever/knowledge-base/issues/39)
+
 :white_check_mark: [网页导出数据至 Excel](https://github.com/Dream4ever/knowledge-base/issues/14)
 
 :white_check_mark: [生成不重复的随机字符串](https://github.com/Dream4ever/knowledge-base/issues/19)
@@ -51,6 +51,10 @@ Explanation | 图例说明
 :white_check_mark: [CNZZ](https://github.com/Dream4ever/knowledge-base/issues/3)
 
 ### Vue-Cli
+
+:memo: [vue-js-modal 生成的对话框中元素不能立即使用](https://github.com/Dream4ever/knowledge-base/issues/37)
+
+:memo: [Vue 组件修改网页标题](https://github.com/Dream4ever/knowledge-base/issues/9)
 
 :white_check_mark: [vue-cli 引入外部 JS 库的两种方式](https://github.com/Dream4ever/knowledge-base/issues/36)
 
@@ -61,6 +65,10 @@ Explanation | 图例说明
 :white_check_mark: [vue-js-modal 正确用法](https://github.com/Dream4ever/knowledge-base/issues/35)
 
 ## Back-end | 后端
+
+:memo: [文件上传](https://github.com/Dream4ever/knowledge-base/issues/6)
+
+:memo: [理解 IIS 的 URL 重写](https://github.com/Dream4ever/knowledge-base/issues/7)
 
 :white_check_mark: [让 Express 支持 ES6](https://github.com/Dream4ever/knowledge-base/issues/27)
 
@@ -74,18 +82,26 @@ Explanation | 图例说明
 
 ## Server | 服务器
 
+:memo: [网站压力测试](https://github.com/Dream4ever/knowledge-base/issues/17)
+
+:memo: [Git hook 实现自动部署](https://github.com/Dream4ever/knowledge-base/issues/8)
+
 :white_check_mark: [Windows 远程桌面连接客户端无法记住账户](https://github.com/Dream4ever/knowledge-base/issues/23)
 
 ## Software | 软件
 
-:white_check_mark: [安装 Visual Studio 2017](https://github.com/Dream4ever/knowledge-base/issues/11)
+:memo: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
 
-:white_check_mark: [跨平台开发源码文件换行问题](https://github.com/Dream4ever/knowledge-base/issues/13)
+:white_check_mark: [GitHub 项目用代理推送至服务器](https://github.com/Dream4ever/knowledge-base/issues/18)
 
 :white_check_mark: [各版本 Git 安装程序的区别](https://github.com/Dream4ever/knowledge-base/issues/16)
 
-:white_check_mark: [常规视频处理成流媒体](https://github.com/Dream4ever/knowledge-base/issues/22)
+:white_check_mark: [跨平台开发源码文件换行问题](https://github.com/Dream4ever/knowledge-base/issues/13)
 
 :white_check_mark: [全局安装的 npm 包无法使用](https://github.com/Dream4ever/knowledge-base/issues/25)
 
 :white_check_mark: [Windows 下使用 Node.js 的注意事项](https://github.com/Dream4ever/knowledge-base/issues/26)
+
+:white_check_mark: [常规视频处理成流媒体](https://github.com/Dream4ever/knowledge-base/issues/22)
+
+:white_check_mark: [安装 Visual Studio 2017](https://github.com/Dream4ever/knowledge-base/issues/11)
