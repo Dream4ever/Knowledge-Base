@@ -52,6 +52,8 @@ Explanation | 图例说明
 
 ### Vue-Cli
 
+:memo: [vue-cli 项目中引用 CDN 上的 JS/CSS 库](https://github.com/Dream4ever/knowledge-base/issues/42)
+
 :memo: [vue-js-modal 生成的对话框中元素不能立即使用](https://github.com/Dream4ever/knowledge-base/issues/37)
 
 :memo: [Vue 组件修改网页标题](https://github.com/Dream4ever/knowledge-base/issues/9)
