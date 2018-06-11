@@ -34,6 +34,8 @@ Explanation | 图例说明
 
 :white_check_mark: [Skeleton Screen Loading](https://github.com/Dream4ever/knowledge-base/issues/2)
 
+:white_check_mark: [CSS 强制惯性滚动](https://github.com/Dream4ever/knowledge-base/issues/44)
+
 ### WeChat | 微信
 
 :white_check_mark: [微信 JS-SDK 接口调用](https://github.com/Dream4ever/knowledge-base/issues/41)
