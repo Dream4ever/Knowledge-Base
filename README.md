@@ -66,6 +66,8 @@ Explanation | 图例说明
 
 :white_check_mark: [vue-cli CSS 背景图片路径设置](https://github.com/Dream4ever/knowledge-base/issues/33)
 
+:white_check_mark: [vue-cli 的 index.html 中不能用字符串模板](https://github.com/Dream4ever/knowledge-base/issues/43)
+
 :white_check_mark: [vue-js-modal 正确用法](https://github.com/Dream4ever/knowledge-base/issues/35)
 
 ## Back-end | 后端
