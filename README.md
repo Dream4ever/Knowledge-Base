@@ -56,6 +56,8 @@ Explanation | 图例说明
 
 :memo: [Vue 组件修改网页标题](https://github.com/Dream4ever/knowledge-base/issues/9)
 
+:memo: [vue-cli 项目中引用 CDN 上的 JS/CSS 库](https://github.com/Dream4ever/knowledge-base/issues/42)
+
 :white_check_mark: [vue-cli 引入外部 JS 库的两种方式](https://github.com/Dream4ever/knowledge-base/issues/36)
 
 :white_check_mark: [vue-cli 引用 CSS 库](https://github.com/Dream4ever/knowledge-base/issues/28)
