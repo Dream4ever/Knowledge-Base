@@ -44,7 +44,7 @@ Explanation | 图例说明
 
 ## JavaScript
 
-:memo: [JS 实现文本复制功能](https://github.com/Dream4ever/knowledge-base/issues/39)
+:white_check_mark: [JS 实现文本复制功能](https://github.com/Dream4ever/knowledge-base/issues/39)
 
 :white_check_mark: [网页导出数据至 Excel](https://github.com/Dream4ever/knowledge-base/issues/14)
 
