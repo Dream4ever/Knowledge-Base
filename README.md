@@ -106,6 +106,8 @@ Explanation | 图例说明
 
 :white_check_mark: [跨平台开发源码文件换行问题](https://github.com/Dream4ever/knowledge-base/issues/13)
 
+:white_check_mark: [Windows系统Node开发环境重置](https://github.com/Dream4ever/knowledge-base/issues/45)
+
 :white_check_mark: [全局安装的 npm 包无法使用](https://github.com/Dream4ever/knowledge-base/issues/25)
 
 :white_check_mark: [Windows 下使用 Node.js 的注意事项](https://github.com/Dream4ever/knowledge-base/issues/26)
