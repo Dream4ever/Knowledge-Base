@@ -100,6 +100,8 @@ Explanation | 图例说明
 
 :memo: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
 
+:memo: [常规视频处理成流媒体](https://github.com/Dream4ever/knowledge-base/issues/22)
+
 :white_check_mark: [GitHub 项目用代理推送至服务器](https://github.com/Dream4ever/knowledge-base/issues/18)
 
 :white_check_mark: [各版本 Git 安装程序的区别](https://github.com/Dream4ever/knowledge-base/issues/16)
@@ -111,7 +113,5 @@ Explanation | 图例说明
 :white_check_mark: [全局安装的 npm 包无法使用](https://github.com/Dream4ever/knowledge-base/issues/25)
 
 :white_check_mark: [Windows 下使用 Node.js 的注意事项](https://github.com/Dream4ever/knowledge-base/issues/26)
-
-:white_check_mark: [常规视频处理成流媒体](https://github.com/Dream4ever/knowledge-base/issues/22)
 
 :white_check_mark: [安装 Visual Studio 2017](https://github.com/Dream4ever/knowledge-base/issues/11)
