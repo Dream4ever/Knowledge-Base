@@ -54,13 +54,13 @@ Explanation | 图例说明
 
 ### Vue-Cli
 
-:memo: [vue-cli 项目中引用 CDN 上的 JS/CSS 库](https://github.com/Dream4ever/knowledge-base/issues/42)
+:memo: [一个 vue-clie 项目编译生成多个子项目](https://github.com/Dream4ever/knowledge-base/issues/46)
 
 :memo: [vue-js-modal 生成的对话框中元素不能立即使用](https://github.com/Dream4ever/knowledge-base/issues/37)
 
 :memo: [Vue 组件修改网页标题](https://github.com/Dream4ever/knowledge-base/issues/9)
 
-:memo: [vue-cli 项目中引用 CDN 上的 JS/CSS 库](https://github.com/Dream4ever/knowledge-base/issues/42)
+:white_check_mark: [vue-cli 项目中引用 CDN 上的 JS/CSS 库](https://github.com/Dream4ever/knowledge-base/issues/42)
 
 :white_check_mark: [vue-cli 引入外部 JS 库的两种方式](https://github.com/Dream4ever/knowledge-base/issues/36)
 
