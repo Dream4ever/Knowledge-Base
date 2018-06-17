@@ -18,6 +18,8 @@ Explanation | 图例说明
 
 :memo: [前端页面文本搜索及高亮](https://github.com/Dream4ever/knowledge-base/issues/4)
 
+:memo: [Skeleton Screen Loading](https://github.com/Dream4ever/knowledge-base/issues/2)
+
 :white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
 
 :white_check_mark: [移动端点击表单元素后弹出输入法遮盖界面](https://github.com/Dream4ever/knowledge-base/issues/40)
@@ -31,8 +33,6 @@ Explanation | 图例说明
 :white_check_mark: [浏览器控制台 get favicon.ico 404 提示](https://github.com/Dream4ever/knowledge-base/issues/34)
 
 :white_check_mark: [优选移动端 UI 框架](https://github.com/Dream4ever/knowledge-base/issues/10)
-
-:white_check_mark: [Skeleton Screen Loading](https://github.com/Dream4ever/knowledge-base/issues/2)
 
 :white_check_mark: [CSS 强制惯性滚动](https://github.com/Dream4ever/knowledge-base/issues/44)
 
