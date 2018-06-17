@@ -22,6 +22,8 @@ Explanation | 图例说明
 
 :white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
 
+:white_check_mark: [Web端嵌入百度地图](https://github.com/Dream4ever/knowledge-base/issues/48)
+
 :white_check_mark: [移动端点击表单元素后弹出输入法遮盖界面](https://github.com/Dream4ever/knowledge-base/issues/40)
 
 :white_check_mark: [iOS 页面滚动光标不跟随](https://github.com/Dream4ever/knowledge-base/issues/29)
