@@ -50,7 +50,7 @@ Explanation | 图例说明
 
 :white_check_mark: [生成不重复的随机字符串](https://github.com/Dream4ever/knowledge-base/issues/19)
 
-:white_check_mark: [CNZZ](https://github.com/Dream4ever/knowledge-base/issues/3)
+:white_check_mark: [编写 CNZZ 工具函数](https://github.com/Dream4ever/knowledge-base/issues/3)
 
 ### Vue-Cli
 
