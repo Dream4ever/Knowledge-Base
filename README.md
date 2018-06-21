@@ -20,6 +20,8 @@ Explanation | 图例说明
 
 :memo: [Skeleton Screen Loading](https://github.com/Dream4ever/knowledge-base/issues/2)
 
+:white_check_mark: [IIS 服务器上的 mp4 在 iOS 上无法播放](https://github.com/Dream4ever/knowledge-base/issues/50)
+
 :white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
 
 :white_check_mark: [Web端嵌入百度地图](https://github.com/Dream4ever/knowledge-base/issues/48)
