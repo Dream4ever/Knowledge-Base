@@ -46,6 +46,8 @@ Explanation | 图例说明
 
 :white_check_mark: [CSS 强制惯性滚动](https://github.com/Dream4ever/knowledge-base/issues/44)
 
+:white_check_mark: [Puppeteer 实现浏览器自动化操作](https://github.com/Dream4ever/knowledge-base/issues/54)
+
 ### WeChat | 微信
 
 :white_check_mark: [微信 JS-SDK 接口调用](https://github.com/Dream4ever/knowledge-base/issues/41)
