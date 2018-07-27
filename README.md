@@ -64,9 +64,9 @@ Explanation | 图例说明
 
 :white_check_mark: [编写 CNZZ 工具函数](https://github.com/Dream4ever/knowledge-base/issues/3)
 
-### Vue-Cli
+### Vue
 
-:memo: [一个 vue-clie 项目编译生成多个子项目](https://github.com/Dream4ever/knowledge-base/issues/46)
+:memo: [一个 vue-cli 项目编译生成多个子项目](https://github.com/Dream4ever/knowledge-base/issues/46)
 
 :memo: [vue-js-modal 生成的对话框中元素不能立即使用](https://github.com/Dream4ever/knowledge-base/issues/37)
 
