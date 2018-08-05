@@ -46,7 +46,7 @@ Explanation | 图例说明
 
 :white_check_mark: [CSS 强制惯性滚动](https://github.com/Dream4ever/knowledge-base/issues/44)
 
-:white_check_mark: [Puppeteer 实现浏览器自动化操作](https://github.com/Dream4ever/knowledge-base/issues/54)
+:white_check_mark: [Puppeteer 批量自动生成并保存二维码](https://github.com/Dream4ever/knowledge-base/issues/54)
 
 ### WeChat | 微信
 
