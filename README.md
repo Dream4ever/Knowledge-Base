@@ -50,6 +50,8 @@ Explanation | 图例说明
 
 ### WeChat | 微信
 
+:construction: [跳过微信浏览器缓存](https://github.com/Dream4ever/knowledge-base/issues/38)
+
 :white_check_mark: [微信 JS-SDK 接口调用](https://github.com/Dream4ever/knowledge-base/issues/41)
 
 :fire: [微信公众号文章展示 HTML 页面](https://github.com/Dream4ever/knowledge-base/issues/1)
