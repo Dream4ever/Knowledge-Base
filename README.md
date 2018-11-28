@@ -66,6 +66,8 @@ Explanation | 图例说明
 
 :white_check_mark: [编写 CNZZ 工具函数](https://github.com/Dream4ever/knowledge-base/issues/3)
 
+:white_check_mark: [简写 document.querySelector](https://github.com/Dream4ever/Knowledge-Base/issues/56)
+
 ### Vue
 
 :memo: [一个 vue-cli 项目编译生成多个子项目](https://github.com/Dream4ever/knowledge-base/issues/46)
