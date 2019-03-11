@@ -110,6 +110,8 @@ Explanation | 图例说明
 
 ## Server | 服务器
 
+:memo: [Windows 下 Node.js 程序保活](https://github.com/Dream4ever/Knowledge-Base/issues/59)
+
 :memo: [网站压力测试](https://github.com/Dream4ever/knowledge-base/issues/17)
 
 :memo: [Git hook 实现自动部署](https://github.com/Dream4ever/knowledge-base/issues/8)
