@@ -18,27 +18,17 @@ Explanation | 图例说明
 
 :memo: [让 flexbox 适配低端设备](https://github.com/Dream4ever/knowledge-base/issues/53)
 
-:memo: [流媒体兼容性记录](https://github.com/Dream4ever/knowledge-base/issues/58)
-
 :memo: [各类统计数据 - 兼容性研究](https://github.com/Dream4ever/knowledge-base/issues/51)
 
 :fire: [前端页面文本搜索及高亮](https://github.com/Dream4ever/knowledge-base/issues/4)
 
 :memo: [Skeleton Screen Loading](https://github.com/Dream4ever/knowledge-base/issues/2)
 
-:white_check_mark: [检查页面中视频是否处于播放状态](https://github.com/Dream4ever/knowledge-base/issues/52)
-
-:white_check_mark: [IIS 服务器上的 mp4 在 iOS 上无法播放](https://github.com/Dream4ever/knowledge-base/issues/50)
-
-:white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
-
 :white_check_mark: [Web端嵌入百度地图](https://github.com/Dream4ever/knowledge-base/issues/48)
 
 :white_check_mark: [移动端点击表单元素后弹出输入法遮盖界面](https://github.com/Dream4ever/knowledge-base/issues/40)
 
 :white_check_mark: [iOS 页面滚动光标不跟随](https://github.com/Dream4ever/knowledge-base/issues/29)
-
-:white_check_mark: [iOS 视频自动播放](https://github.com/Dream4ever/knowledge-base/issues/30)
 
 :white_check_mark: [安卓点击表单元素页面变形](https://github.com/Dream4ever/knowledge-base/issues/31)
 
@@ -110,6 +100,20 @@ Explanation | 图例说明
 
 :white_check_mark: [限制 IP 访问指定路径](https://github.com/Dream4ever/knowledge-base/issues/20)
 
+## Audio & Video | 音视频
+
+:memo: [流媒体兼容性记录](https://github.com/Dream4ever/knowledge-base/issues/58)
+
+:white_check_mark: [检查页面中视频是否处于播放状态](https://github.com/Dream4ever/knowledge-base/issues/52)
+
+:white_check_mark: [IIS 服务器上的 mp4 在 iOS 上无法播放](https://github.com/Dream4ever/knowledge-base/issues/50)
+
+:white_check_mark: [前端页面播放流媒体](https://github.com/Dream4ever/knowledge-base/issues/24)
+
+:white_check_mark: [iOS 视频自动播放](https://github.com/Dream4ever/knowledge-base/issues/30)
+
+:memo: [常规视频处理成流媒体](https://github.com/Dream4ever/knowledge-base/issues/22)
+
 ## Server | 服务器
 
 :memo: [Windows 下 Node.js 程序保活](https://github.com/Dream4ever/Knowledge-Base/issues/59)
@@ -123,8 +127,6 @@ Explanation | 图例说明
 ## Software | 软件
 
 :memo: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
-
-:memo: [常规视频处理成流媒体](https://github.com/Dream4ever/knowledge-base/issues/22)
 
 :white_check_mark: [GitHub 项目用代理推送至服务器](https://github.com/Dream4ever/knowledge-base/issues/18)
 
