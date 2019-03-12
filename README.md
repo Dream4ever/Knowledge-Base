@@ -18,6 +18,8 @@ Explanation | 图例说明
 
 :memo: [让 flexbox 适配低端设备](https://github.com/Dream4ever/knowledge-base/issues/53)
 
+:memo: [流媒体兼容性记录](https://github.com/Dream4ever/knowledge-base/issues/58)
+
 :memo: [各类统计数据 - 兼容性研究](https://github.com/Dream4ever/knowledge-base/issues/51)
 
 :fire: [前端页面文本搜索及高亮](https://github.com/Dream4ever/knowledge-base/issues/4)
