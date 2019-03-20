@@ -44,6 +44,8 @@ Explanation | 图例说明
 
 :construction: [跳过微信内置浏览器缓存](https://github.com/Dream4ever/knowledge-base/issues/38)
 
+:construction: [旧手机/平板安装旧版微信](https://github.com/Dream4ever/Knowledge-Base/issues/60)
+
 :white_check_mark: [测试微信中网页跳转是否有提示](https://github.com/Dream4ever/Knowledge-Base/issues/57)
 
 :white_check_mark: [微信 JS-SDK 接口调用](https://github.com/Dream4ever/knowledge-base/issues/41)
