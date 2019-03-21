@@ -16,6 +16,8 @@ Explanation | 图例说明
 
 ## Front-end | 前端
 
+:construction: [利用 fingerprintjs2 区分用户设备](https://github.com/Dream4ever/Knowledge-Base/issues/61)
+
 :memo: [让 flexbox 适配低端设备](https://github.com/Dream4ever/knowledge-base/issues/53)
 
 :memo: [各类统计数据 - 兼容性研究](https://github.com/Dream4ever/knowledge-base/issues/51)
