@@ -106,6 +106,8 @@ Explanation | 图例说明
 
 ## Audio & Video | 音视频
 
+:memo: [加载音频时各事件触发顺序](https://github.com/Dream4ever/Knowledge-Base/issues/62)
+
 :memo: [各款手机的流媒体兼容性记录](https://github.com/Dream4ever/knowledge-base/issues/58)
 
 :white_check_mark: [检查页面中视频是否处于播放状态](https://github.com/Dream4ever/knowledge-base/issues/52)
