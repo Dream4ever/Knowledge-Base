@@ -16,11 +16,7 @@ Explanation | 图例说明
 
 ## Front-end | 前端
 
-:white_check_mark: [网页加载完毕再显示页面](https://github.com/Dream4ever/Knowledge-Base/issues/63)
-
 :construction: [利用 fingerprintjs2 区分用户设备](https://github.com/Dream4ever/Knowledge-Base/issues/61)
-
-:memo: [让 flexbox 适配低端设备](https://github.com/Dream4ever/knowledge-base/issues/53)
 
 :memo: [各类统计数据 - 兼容性研究](https://github.com/Dream4ever/knowledge-base/issues/51)
 
@@ -32,17 +28,23 @@ Explanation | 图例说明
 
 :white_check_mark: [移动端点击表单元素后弹出输入法遮盖界面](https://github.com/Dream4ever/knowledge-base/issues/40)
 
-:white_check_mark: [iOS 页面滚动光标不跟随](https://github.com/Dream4ever/knowledge-base/issues/29)
-
-:white_check_mark: [安卓点击表单元素页面变形](https://github.com/Dream4ever/knowledge-base/issues/31)
-
 :white_check_mark: [浏览器控制台 get favicon.ico 404 提示](https://github.com/Dream4ever/knowledge-base/issues/34)
 
 :white_check_mark: [优选移动端 UI 框架](https://github.com/Dream4ever/knowledge-base/issues/10)
 
+:white_check_mark: [Puppeteer 批量自动生成并保存二维码](https://github.com/Dream4ever/knowledge-base/issues/54)
+
+### CSS
+
+:white_check_mark: [网页加载完毕再显示页面](https://github.com/Dream4ever/Knowledge-Base/issues/63)
+
+:memo: [让 flexbox 适配低端设备](https://github.com/Dream4ever/knowledge-base/issues/53)
+
+:white_check_mark: [安卓点击表单元素页面变形](https://github.com/Dream4ever/knowledge-base/issues/31)
+
 :white_check_mark: [CSS 强制惯性滚动](https://github.com/Dream4ever/knowledge-base/issues/44)
 
-:white_check_mark: [Puppeteer 批量自动生成并保存二维码](https://github.com/Dream4ever/knowledge-base/issues/54)
+:white_check_mark: [iOS 页面滚动光标不跟随](https://github.com/Dream4ever/knowledge-base/issues/29)
 
 ### WeChat | 微信
 
