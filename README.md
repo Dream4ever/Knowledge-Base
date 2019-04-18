@@ -46,7 +46,9 @@ Explanation | 图例说明
 
 :white_check_mark: [iOS 页面滚动光标不跟随](https://github.com/Dream4ever/knowledge-base/issues/29)
 
-### WeChat | 微信
+### WeChat & QQ | 微信 & QQ
+
+:construction: [手Q内置浏览器中点击链接加群](https://github.com/Dream4ever/Knowledge-Base/issues/64)
 
 :construction: [跳过微信内置浏览器缓存](https://github.com/Dream4ever/knowledge-base/issues/38)
 
