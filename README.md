@@ -48,7 +48,7 @@ Explanation | 图例说明
 
 ### WeChat & QQ | 微信 & QQ
 
-:construction: [手Q内置浏览器中点击链接加群](https://github.com/Dream4ever/Knowledge-Base/issues/64)
+:white_check_mark: [手Q内置浏览器中点击链接加群](https://github.com/Dream4ever/Knowledge-Base/issues/64)
 
 :construction: [跳过微信内置浏览器缓存](https://github.com/Dream4ever/knowledge-base/issues/38)
 
