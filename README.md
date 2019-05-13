@@ -64,6 +64,8 @@ Explanation | 图例说明
 
 ## JavaScript
 
+:white_check_mark: [遍历DOM节点的正确方法](https://github.com/Dream4ever/Knowledge-Base/issues/68)
+
 :white_check_mark: [烟花特效](https://github.com/Dream4ever/Knowledge-Base/issues/67)
 
 :white_check_mark: [JS 实现文本复制功能](https://github.com/Dream4ever/knowledge-base/issues/39)
