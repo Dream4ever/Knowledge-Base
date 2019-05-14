@@ -48,7 +48,7 @@ Explanation | 图例说明
 
 ### WeChat & QQ | 微信 & QQ
 
-:construction: [手机QQ微信点击左上角返回上一页](https://github.com/Dream4ever/Knowledge-Base/issues/65)
+:construction: [手Q微信点击左上角返回上一页](https://github.com/Dream4ever/Knowledge-Base/issues/65)
 
 :white_check_mark: [手Q内置浏览器中点击链接加群](https://github.com/Dream4ever/Knowledge-Base/issues/64)
 
