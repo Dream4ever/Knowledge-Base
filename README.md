@@ -136,13 +136,17 @@ Explanation | 图例说明
 
 :construction: [nw.js 开发笔记](https://github.com/Dream4ever/Knowledge-Base/issues/66)
 
+## Git
+
+:memo: [Git hook 实现自动部署](https://github.com/Dream4ever/knowledge-base/issues/8)
+
+:white_check_mark: [各版本 Git 安装程序的区别](https://github.com/Dream4ever/knowledge-base/issues/16)
+
 ## Server | 服务器
 
 :memo: [Windows 下 Node.js 程序保活](https://github.com/Dream4ever/Knowledge-Base/issues/59)
 
 :memo: [网站压力测试](https://github.com/Dream4ever/knowledge-base/issues/17)
-
-:memo: [Git hook 实现自动部署](https://github.com/Dream4ever/knowledge-base/issues/8)
 
 :white_check_mark: [Windows 远程桌面连接客户端无法记住账户](https://github.com/Dream4ever/knowledge-base/issues/23)
 
@@ -151,8 +155,6 @@ Explanation | 图例说明
 :memo: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
 
 :white_check_mark: [GitHub 项目用代理推送至服务器](https://github.com/Dream4ever/knowledge-base/issues/18)
-
-:white_check_mark: [各版本 Git 安装程序的区别](https://github.com/Dream4ever/knowledge-base/issues/16)
 
 :white_check_mark: [跨平台开发源码文件换行问题](https://github.com/Dream4ever/knowledge-base/issues/13)
 
