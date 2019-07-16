@@ -156,6 +156,8 @@ Explanation | 图例说明
 
 ## Software | 软件
 
+:white_check_mark: [微软产品的生命周期](https://github.com/Dream4ever/Knowledge-Base/issues/71)
+
 :memo: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
 
 :white_check_mark: [GitHub 项目用代理推送至服务器](https://github.com/Dream4ever/knowledge-base/issues/18)
