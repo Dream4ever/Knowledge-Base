@@ -122,6 +122,10 @@ Explanation | 图例说明
 
 :white_check_mark: [限制 IP 访问指定路径](https://github.com/Dream4ever/knowledge-base/issues/20)
 
+### Go
+
+:memo: [解决 go get 太慢的问题](https://github.com/Dream4ever/Knowledge-Base/issues/74)
+
 ## Audio & Video | 音视频
 
 :white_check_mark: [加载音频时各事件触发顺序](https://github.com/Dream4ever/Knowledge-Base/issues/62)
