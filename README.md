@@ -124,7 +124,7 @@ Explanation | 图例说明
 
 ### Go
 
-:memo: [解决 go get 太慢的问题](https://github.com/Dream4ever/Knowledge-Base/issues/74)
+:white_check_mark: [解决 go get 太慢的问题](https://github.com/Dream4ever/Knowledge-Base/issues/74)
 
 ## Audio & Video | 音视频
 
