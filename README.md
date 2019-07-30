@@ -108,6 +108,8 @@ Explanation | 图例说明
 
 ## Back-end | 后端
 
+:white_check_mark: [Windows 下 tusd 编译安装全流程](https://github.com/Dream4ever/Knowledge-Base/issues/75)
+
 :memo: [文件上传](https://github.com/Dream4ever/knowledge-base/issues/6)
 
 :memo: [理解 IIS 的 URL 重写](https://github.com/Dream4ever/knowledge-base/issues/7)
