@@ -108,6 +108,8 @@ Explanation | 图例说明
 
 ## Back-end | 后端
 
+:memo: [网站开启QQ登录功能](https://github.com/Dream4ever/Knowledge-Base/issues/76)
+
 :white_check_mark: [Windows 下 tusd 编译安装全流程](https://github.com/Dream4ever/Knowledge-Base/issues/75)
 
 :memo: [文件上传](https://github.com/Dream4ever/knowledge-base/issues/6)
