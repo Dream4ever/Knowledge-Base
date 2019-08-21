@@ -110,7 +110,7 @@ Explanation | 图例说明
 
 :memo: [网站开启QQ登录功能](https://github.com/Dream4ever/Knowledge-Base/issues/76)
 
-:memo: [利用 Babel 使 Node.js 执行 ES6 代码](https://github.com/Dream4ever/Knowledge-Base/issues/79)
+:memo: [Node.js + Babel 7 搞定 ES6](https://github.com/Dream4ever/Knowledge-Base/issues/79)
 
 :white_check_mark: [让 Express 支持 ES6](https://github.com/Dream4ever/knowledge-base/issues/27)
 
