@@ -68,6 +68,8 @@ Explanation | 图例说明
 
 ## JavaScript
 
+:white_check_mark: [在回调函数中访问正确的 this](https://github.com/Dream4ever/Knowledge-Base/issues/80)
+
 :white_check_mark: [遍历DOM节点的正确方法](https://github.com/Dream4ever/Knowledge-Base/issues/68)
 
 :white_check_mark: [烟花特效](https://github.com/Dream4ever/Knowledge-Base/issues/67)
@@ -110,7 +112,7 @@ Explanation | 图例说明
 
 :memo: [网站开启QQ登录功能](https://github.com/Dream4ever/Knowledge-Base/issues/76)
 
-:memo: [Node.js + Babel 7 搞定 ES6](https://github.com/Dream4ever/Knowledge-Base/issues/79)
+:white_check_mark: [Node.js + Babel 7 搞定 ES6](https://github.com/Dream4ever/Knowledge-Base/issues/79)
 
 :white_check_mark: [让 Express 支持 ES6](https://github.com/Dream4ever/knowledge-base/issues/27)
 
