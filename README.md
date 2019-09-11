@@ -68,7 +68,7 @@ Explanation | 图例说明
 
 ## JavaScript
 
-:white_check_mark: [在回调函数中访问正确的 this](https://github.com/Dream4ever/Knowledge-Base/issues/80)
+:white_check_mark: [在回调函数中访问“正确“的 this](https://github.com/Dream4ever/Knowledge-Base/issues/80)
 
 :white_check_mark: [遍历DOM节点的正确方法](https://github.com/Dream4ever/Knowledge-Base/issues/68)
 
