@@ -114,7 +114,7 @@ Explanation | 图例说明
 
 :white_check_mark: [Node.js + Babel 7 搞定 ES6](https://github.com/Dream4ever/Knowledge-Base/issues/79)
 
-:white_check_mark: [让 Express 支持 ES6](https://github.com/Dream4ever/knowledge-base/issues/27)
+:white_check_mark: [解决 res.redirect 部分失败的问题](https://github.com/Dream4ever/knowledge-base/issues/27)
 
 :white_check_mark: [Windows 下 tusd 编译安装全流程](https://github.com/Dream4ever/Knowledge-Base/issues/75)
 
