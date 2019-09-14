@@ -12,6 +12,8 @@ Explanation | 图例说明
 
 ## Methodology | 方法论
 
+:white_check_mark: [如何寻找XXX的最佳实践？](https://github.com/Dream4ever/Knowledge-Base/issues/82)
+
 :white_check_mark: [项目架构梳理](https://github.com/Dream4ever/knowledge-base/issues/21)
 
 ## Front-end | 前端
@@ -70,7 +72,7 @@ Explanation | 图例说明
 
 ## JavaScript
 
-:white_check_mark: [在回调函数中访问“正确“的 this](https://github.com/Dream4ever/Knowledge-Base/issues/80)
+:white_check_mark: [在回调函数中访问“正确”的 this](https://github.com/Dream4ever/Knowledge-Base/issues/80)
 
 :white_check_mark: [遍历DOM节点的正确方法](https://github.com/Dream4ever/Knowledge-Base/issues/68)
 
