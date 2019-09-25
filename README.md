@@ -178,6 +178,8 @@ Explanation | 图例说明
 
 ## Software | 软件
 
+:white_check_mark: [通过 Mac 输出 iPhone 的画面和声音](https://github.com/Dream4ever/Knowledge-Base/issues/83)
+
 :white_check_mark: [鼠须管输入法设置 - Mac 版](https://github.com/Dream4ever/Knowledge-Base/issues/77)
 
 :white_check_mark: [微软产品的生命周期](https://github.com/Dream4ever/Knowledge-Base/issues/71)
