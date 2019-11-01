@@ -168,6 +168,8 @@ Explanation | 图例说明
 
 ## Server | 服务器
 
+:white_check_mark: [CentOS 测试网速](https://github.com/Dream4ever/Knowledge-Base/issues/85)
+
 :white_check_mark: [CentOS 内核版本辨析](https://github.com/Dream4ever/Knowledge-Base/issues/78)
 
 :white_check_mark: [Windows 下 Node.js 程序保活](https://github.com/Dream4ever/Knowledge-Base/issues/59)
