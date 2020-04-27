@@ -168,6 +168,8 @@ Explanation | 图例说明
 
 ## Server | 服务器
 
+:white_check_mark: [IIS 中将网站下的 HTTP 请求全部重定向到 HTTPS](https://github.com/Dream4ever/Knowledge-Base/issues/86)
+
 :white_check_mark: [CentOS 测试网速](https://github.com/Dream4ever/Knowledge-Base/issues/85)
 
 :white_check_mark: [CentOS 内核版本辨析](https://github.com/Dream4ever/Knowledge-Base/issues/78)
@@ -179,6 +181,8 @@ Explanation | 图例说明
 :white_check_mark: [Windows 远程桌面连接客户端无法记住账户](https://github.com/Dream4ever/knowledge-base/issues/23)
 
 ## Software | 软件
+
+:white_check_mark: [Windows 下安装配置 OpenSSH](https://github.com/Dream4ever/Knowledge-Base/issues/84)
 
 :white_check_mark: [通过 Mac 输出 iPhone 的画面和声音](https://github.com/Dream4ever/Knowledge-Base/issues/83)
 
