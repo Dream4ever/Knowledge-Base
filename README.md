@@ -170,6 +170,8 @@ Explanation | 图例说明
 
 ## Server | 服务器
 
+:white_check_mark: [History 命令显示执行时间](https://github.com/Dream4ever/knowledge-base/issues/11)
+
 :white_check_mark: [IIS 中将网站下的 HTTP 请求全部重定向到 HTTPS](https://github.com/Dream4ever/Knowledge-Base/issues/86)
 
 :white_check_mark: [CentOS 测试网速](https://github.com/Dream4ever/Knowledge-Base/issues/85)
@@ -205,7 +207,5 @@ Explanation | 图例说明
 :white_check_mark: [全局安装的 npm 包无法使用](https://github.com/Dream4ever/knowledge-base/issues/25)
 
 :white_check_mark: [Windows 下使用 Node.js 的注意事项](https://github.com/Dream4ever/knowledge-base/issues/26)
-
-:white_check_mark: [安装 Visual Studio 2017](https://github.com/Dream4ever/knowledge-base/issues/11)
 
 :white_check_mark: [Ngrok](https://github.com/Dream4ever/knowledge-base/issues/49)
