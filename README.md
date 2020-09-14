@@ -213,3 +213,8 @@ Explanation | 图例说明
 :white_check_mark: [Windows 下使用 Node.js 的注意事项](https://github.com/Dream4ever/knowledge-base/issues/26)
 
 :white_check_mark: [Ngrok](https://github.com/Dream4ever/knowledge-base/issues/49)
+
+### Total Commander
+
+:white_check_mark: [Total Commander 批量重命名 - 编辑名称 - 使用 UTF-8 编码](https://github.com/Dream4ever/Knowledge-Base/issues/89)
+
