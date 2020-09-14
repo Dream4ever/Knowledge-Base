@@ -216,6 +216,6 @@ Explanation | 图例说明
 
 ### Total Commander
 
-:white_check_mark: [Total Commander 批量重命名 - 编辑名称 - 使用 UTF-8 编码](https://github.com/Dream4ever/Knowledge-Base/issues/89)
+:white_check_mark: [批量重命名 → 编辑名称时不使用 ANSI 编码](https://github.com/Dream4ever/Knowledge-Base/issues/89)
 
-:white_check_mark: [让 Total Commander 文件/夹按数字大小升序排列](https://github.com/Dream4ever/Knowledge-Base/issues/90)
+:white_check_mark: [让文件/夹按数字大小升序排列](https://github.com/Dream4ever/Knowledge-Base/issues/90)
