@@ -76,6 +76,10 @@ Explanation | 图例说明
 
 :construction: [调研微信读书相关资料](https://github.com/Dream4ever/Knowledge-Base/issues/88)
 
+### 浏览器
+
+:white_check_mark: [在域名 A 中设置域名 B 的 cookie](https://github.com/Dream4ever/Knowledge-Base/issues/96)
+
 ## JavaScript
 
 :white_check_mark: [在回调函数中访问“正确”的 this](https://github.com/Dream4ever/Knowledge-Base/issues/80)
