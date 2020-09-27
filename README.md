@@ -174,9 +174,9 @@ Explanation | 图例说明
 
 ## 调试
 
-:white_check_mark: [让 Charles 监听 localhost 的流量](https://github.com/Dream4ever/Knowledge-Base/issues/93)
+:white_check_mark: [让 Charles 监听 localhost 的 HTTP 请求](https://github.com/Dream4ever/Knowledge-Base/issues/93)
 
-:white_check_mark: [让 Charles 监听 HTTPS 流量](https://github.com/Dream4ever/Knowledge-Base/issues/94)
+:white_check_mark: [让 Charles 解析 HTTPS 请求](https://github.com/Dream4ever/Knowledge-Base/issues/94)
 
 ## Full Stack | 全栈
 
