@@ -204,6 +204,8 @@ Explanation | 图例说明
 
 :memo: [网站压力测试](https://github.com/Dream4ever/knowledge-base/issues/17)
 
+:white_check_mark: [Windows 通过远程桌面连接 CentOS GUI](https://github.com/Dream4ever/Knowledge-Base/issues/97)
+
 :white_check_mark: [Windows 远程桌面连接客户端无法记住账户](https://github.com/Dream4ever/knowledge-base/issues/23)
 
 ## Software | 软件
