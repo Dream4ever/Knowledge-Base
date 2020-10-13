@@ -78,6 +78,8 @@ Explanation | 图例说明
 
 ### 浏览器
 
+:white_check_mark: [浏览器的 Referrer-Policy 设置](https://github.com/Dream4ever/Knowledge-Base/issues/98)
+
 :white_check_mark: [在域名 A 中设置域名 B 的 cookie](https://github.com/Dream4ever/Knowledge-Base/issues/96)
 
 ## JavaScript
