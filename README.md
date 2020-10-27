@@ -78,7 +78,9 @@ Explanation | 图例说明
 
 ### 浏览器
 
-[session cookie 在浏览器软件关闭后未被删除](https://github.com/Dream4ever/Knowledge-Base/issues/99)
+:white_check_mark: [强制浏览器下载文件而不是查看文件内容](https://github.com/Dream4ever/Knowledge-Base/issues/100)
+
+:white_check_mark: [session cookie 在浏览器软件关闭后未被删除](https://github.com/Dream4ever/Knowledge-Base/issues/99)
 
 :white_check_mark: [浏览器的 Referrer-Policy 设置](https://github.com/Dream4ever/Knowledge-Base/issues/98)
 
