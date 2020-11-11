@@ -174,7 +174,7 @@ Explanation | 图例说明
 
 :memo: [常规视频处理成流媒体](https://github.com/Dream4ever/knowledge-base/issues/22)
 
-## 网址资源保护
+## 网站资源保护
 
 :memo: [禁用浏览器开发者工具](https://github.com/Dream4ever/knowledge-base/issues/91)
 
@@ -215,6 +215,10 @@ Explanation | 图例说明
 :white_check_mark: [Windows 通过远程桌面连接 CentOS GUI](https://github.com/Dream4ever/Knowledge-Base/issues/97)
 
 :white_check_mark: [Windows 远程桌面连接客户端无法记住账户](https://github.com/Dream4ever/knowledge-base/issues/23)
+
+## Security | 安全
+
+:white_check_mark: [SSL 双向认证以限制用户访问](https://github.com/Dream4ever/Knowledge-Base/issues/102)
 
 ## Software | 软件
 
