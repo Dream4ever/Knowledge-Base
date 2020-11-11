@@ -174,13 +174,15 @@ Explanation | 图例说明
 
 :memo: [常规视频处理成流媒体](https://github.com/Dream4ever/knowledge-base/issues/22)
 
-## 网站资源保护
+### Database | 数据库
+
+## Web Resource Protection | 网站资源保护
 
 :memo: [禁用浏览器开发者工具](https://github.com/Dream4ever/knowledge-base/issues/91)
 
 :memo: [网页正常显示图片的同时禁止下载](https://github.com/Dream4ever/knowledge-base/issues/92)
 
-## 调试
+## Debug | 调试
 
 :white_check_mark: [让 Charles 监听 localhost 的 HTTP 请求](https://github.com/Dream4ever/Knowledge-Base/issues/93)
 
