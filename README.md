@@ -130,6 +130,10 @@ Explanation | 图例说明
 
 :white_check_mark: [vue-js-modal 正确用法](https://github.com/Dream4ever/knowledge-base/issues/35)
 
+### Qrcode | 二维码
+
+:white_check_mark: [草料二维码之活码原理分析](https://github.com/Dream4ever/Knowledge-Base/issues/103)
+
 ## Back-end | 后端
 
 :memo: [网站开启QQ登录功能](https://github.com/Dream4ever/Knowledge-Base/issues/76)
