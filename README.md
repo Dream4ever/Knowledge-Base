@@ -192,7 +192,7 @@ Explanation | 图例说明
 
 :construction: [Windows 服务器 IIS 网站设置硬件资源配额](https://github.com/Dream4ever/Knowledge-Base/issues/106)
 
-:construction: [某网站 CPU 占用过高原因排查](https://github.com/Dream4ever/Knowledge-Base/issues/105)
+:white_check_mark: [某网站 CPU 占用过高原因排查](https://github.com/Dream4ever/Knowledge-Base/issues/105)
 
 :white_check_mark: [让 Charles 监听 localhost 的 HTTP 请求](https://github.com/Dream4ever/Knowledge-Base/issues/93)
 
