@@ -86,6 +86,11 @@ Explanation | 图例说明
 
 :white_check_mark: [在域名 A 中设置域名 B 的 cookie](https://github.com/Dream4ever/Knowledge-Base/issues/96)
 
+
+### 域名
+
+:white_check_mark: [用户访问一级域名时自动重定向至 www 二级域名](https://github.com/Dream4ever/Knowledge-Base/issues/107)
+
 ## JavaScript
 
 :white_check_mark: [统一代码及数据中的时区](https://github.com/Dream4ever/Knowledge-Base/issues/101)
