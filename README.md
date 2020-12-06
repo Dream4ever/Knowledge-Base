@@ -78,6 +78,8 @@ Explanation | 图例说明
 
 ### 浏览器
 
+:construction: [通过代码清空浏览器缓存](https://github.com/Dream4ever/Knowledge-Base/issues/109)
+
 :white_check_mark: [强制浏览器下载文件而不是查看文件内容](https://github.com/Dream4ever/Knowledge-Base/issues/100)
 
 :white_check_mark: [session cookie 在浏览器软件关闭后未被删除](https://github.com/Dream4ever/Knowledge-Base/issues/99)
