@@ -78,6 +78,8 @@ Explanation | 图例说明
 
 ### 浏览器
 
+:white_check_mark: [IE 兼容：X-UA-Compatible 标签](https://github.com/Dream4ever/Knowledge-Base/issues/111)
+
 :white_check_mark: [让 360 浏览器用极速内核渲染页面](https://github.com/Dream4ever/Knowledge-Base/issues/110)
 
 :construction: [通过代码清空浏览器缓存](https://github.com/Dream4ever/Knowledge-Base/issues/109)
