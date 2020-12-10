@@ -38,6 +38,14 @@ Explanation | 图例说明
 
 :white_check_mark: [Puppeteer 批量自动生成并保存二维码](https://github.com/Dream4ever/knowledge-base/issues/54)
 
+### Compatibility | 兼容性
+
+:white_check_mark: [Bootstrap 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/113)
+
+:white_check_mark: [jQuery 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/112)
+
+:white_check_mark: [IE 兼容：X-UA-Compatible 标签](https://github.com/Dream4ever/Knowledge-Base/issues/111)
+
 ### CSS
 
 :white_check_mark: [为列表元素的前三项设置自定义样式](https://github.com/Dream4ever/Knowledge-Base/issues/81)
@@ -189,14 +197,6 @@ Explanation | 图例说明
 ### Database | 数据库
 
 :construction: [数据库选型：MySQL vs MongoDB](https://github.com/Dream4ever/Knowledge-Base/issues/104)
-
-## Compatibility | 兼容性
-
-:white_check_mark: [Bootstrap 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/113)
-
-:white_check_mark: [jQuery 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/112)
-
-:white_check_mark: [IE 兼容：X-UA-Compatible 标签](https://github.com/Dream4ever/Knowledge-Base/issues/111)
 
 ## Web Resource Protection | 网站资源保护
 
