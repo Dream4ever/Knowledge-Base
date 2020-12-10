@@ -72,13 +72,11 @@ Explanation | 图例说明
 
 :fire: [微信公众号文章展示 HTML 页面](https://github.com/Dream4ever/knowledge-base/issues/1)
 
-### 在线阅读
+### Online Reading | 在线阅读
 
 :construction: [调研微信读书相关资料](https://github.com/Dream4ever/Knowledge-Base/issues/88)
 
-### 浏览器
-
-:white_check_mark: [IE 兼容：X-UA-Compatible 标签](https://github.com/Dream4ever/Knowledge-Base/issues/111)
+### Browser | 浏览器
 
 :white_check_mark: [让 360 浏览器用极速内核渲染页面](https://github.com/Dream4ever/Knowledge-Base/issues/110)
 
@@ -92,8 +90,7 @@ Explanation | 图例说明
 
 :white_check_mark: [在域名 A 中设置域名 B 的 cookie](https://github.com/Dream4ever/Knowledge-Base/issues/96)
 
-
-### 域名
+### Domain | 域名
 
 :white_check_mark: [用户访问一级域名时自动重定向至 www 二级域名](https://github.com/Dream4ever/Knowledge-Base/issues/107)
 
@@ -192,6 +189,14 @@ Explanation | 图例说明
 ### Database | 数据库
 
 :construction: [数据库选型：MySQL vs MongoDB](https://github.com/Dream4ever/Knowledge-Base/issues/104)
+
+## Compatibility | 兼容性
+
+:white_check_mark: [Bootstrap 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/113)
+
+:white_check_mark: [jQuery 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/112)
+
+:white_check_mark: [IE 兼容：X-UA-Compatible 标签](https://github.com/Dream4ever/Knowledge-Base/issues/111)
 
 ## Web Resource Protection | 网站资源保护
 
