@@ -50,7 +50,7 @@ Explanation | 图例说明
 
 :white_check_mark: [正方形容器中的图片保持比例并最大化显示](https://github.com/Dream4ever/Knowledge-Base/issues/114)
 
-:white_check_mark: [为列表元素的前三项设置自定义样式](https://github.com/Dream4ever/Knowledge-Base/issues/81)
+:white_check_mark: [为列表元素的前 N 项设置自定义样式](https://github.com/Dream4ever/Knowledge-Base/issues/81)
 
 :white_check_mark: [网页加载完毕再显示页面](https://github.com/Dream4ever/Knowledge-Base/issues/63)
 
