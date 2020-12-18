@@ -90,6 +90,8 @@ Explanation | 图例说明
 
 ### Browser | 浏览器
 
+:white_check_mark: [检查浏览器是否为 IE](https://github.com/Dream4ever/Knowledge-Base/issues/116)
+
 :white_check_mark: [让 360 浏览器用极速内核渲染页面](https://github.com/Dream4ever/Knowledge-Base/issues/110)
 
 :construction: [通过代码清空浏览器缓存](https://github.com/Dream4ever/Knowledge-Base/issues/109)
