@@ -108,6 +108,8 @@ Explanation | 图例说明
 
 ### Domain | 域名
 
+:white_check_mark: [几种常用的 DNS 解析记录类型](https://github.com/Dream4ever/Knowledge-Base/issues/119)
+
 :white_check_mark: [用户访问一级域名时自动重定向至 www 二级域名](https://github.com/Dream4ever/Knowledge-Base/issues/107)
 
 ## JavaScript
