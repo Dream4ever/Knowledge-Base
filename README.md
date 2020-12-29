@@ -8,7 +8,7 @@ Explanation | 图例说明
 >
 > - :memo: : to do | 待完成
 >
-> - :fire: : cancelled | 已放弃
+> - :fire: : cancelled | 已放弃或已取消
 
 ## Methodology | 方法论
 
@@ -292,7 +292,7 @@ Explanation | 图例说明
 
 :white_check_mark: [Adobe Acrobat Pro 批量删除 PDF 元数据](https://github.com/Dream4ever/Knowledge-Base/issues/120)
 
-:memo: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
+:fire: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
 
 ### Total Commander
 
