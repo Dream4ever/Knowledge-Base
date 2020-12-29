@@ -274,8 +274,6 @@ Explanation | 图例说明
 
 :white_check_mark: [鼠须管输入法设置 - Mac 版](https://github.com/Dream4ever/Knowledge-Base/issues/77)
 
-:memo: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
-
 :white_check_mark: [GitHub 项目用代理推送至服务器](https://github.com/Dream4ever/knowledge-base/issues/18)
 
 :white_check_mark: [跨平台开发源码文件换行问题](https://github.com/Dream4ever/knowledge-base/issues/13)
@@ -289,6 +287,12 @@ Explanation | 图例说明
 :white_check_mark: [Windows 下使用 Node.js 的注意事项](https://github.com/Dream4ever/knowledge-base/issues/26)
 
 :white_check_mark: [Ngrok](https://github.com/Dream4ever/knowledge-base/issues/49)
+
+### PDF
+
+[Adobe Acrobat Pro 批量删除 PDF 元数据](https://github.com/Dream4ever/Knowledge-Base/issues/120)
+
+:memo: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
 
 ### Total Commander
 
