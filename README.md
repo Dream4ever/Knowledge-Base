@@ -290,7 +290,7 @@ Explanation | 图例说明
 
 ### PDF
 
-[Adobe Acrobat Pro 批量删除 PDF 元数据](https://github.com/Dream4ever/Knowledge-Base/issues/120)
+:white_check_mark: [Adobe Acrobat Pro 批量删除 PDF 元数据](https://github.com/Dream4ever/Knowledge-Base/issues/120)
 
 :memo: [PDF 图书内容转换](https://github.com/Dream4ever/knowledge-base/issues/5)
 
