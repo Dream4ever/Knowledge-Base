@@ -246,6 +246,8 @@ Explanation | 图例说明
 
 ### IIS
 
+:white_check_mark: [IIS URL 重写规则表现为重定向](https://github.com/Dream4ever/Knowledge-Base/issues/121)
+
 :white_check_mark: [IIS 网站 HTTPS 无法访问](https://github.com/Dream4ever/Knowledge-Base/issues/118)
 
 :construction: [Windows 服务器 IIS 网站设置硬件资源配额](https://github.com/Dream4ever/Knowledge-Base/issues/106)
