@@ -204,6 +204,8 @@ Explanation | 图例说明
 
 ## Web Resource Protection | 网站资源保护
 
+:memo: [Nginx 保护网站资源](https://github.com/Dream4ever/Knowledge-Base/issues/122)
+
 :memo: [禁用浏览器开发者工具](https://github.com/Dream4ever/knowledge-base/issues/91)
 
 :memo: [网页正常显示图片的同时禁止下载](https://github.com/Dream4ever/knowledge-base/issues/92)
