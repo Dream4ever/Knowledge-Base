@@ -232,6 +232,8 @@ Explanation | 图例说明
 
 ## Server | 服务器
 
+:white_check_mark: [一个文件夹中最多能存放多少个文件？](https://github.com/Dream4ever/knowledge-base/issues/125)
+
 :white_check_mark: [History 命令显示执行时间](https://github.com/Dream4ever/knowledge-base/issues/11)
 
 :white_check_mark: [CentOS 测试网速](https://github.com/Dream4ever/Knowledge-Base/issues/85)
