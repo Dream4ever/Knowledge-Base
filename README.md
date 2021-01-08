@@ -248,6 +248,8 @@ Explanation | 图例说明
 
 ### IIS
 
+:white_check_mark: [IIS 中针对单个网站限速无效](https://github.com/Dream4ever/Knowledge-Base/issues/124)
+
 :white_check_mark: [IIS URL 重定向将 https 定向至 http](https://github.com/Dream4ever/Knowledge-Base/issues/123)
 
 :white_check_mark: [IIS URL 重写规则表现为重定向](https://github.com/Dream4ever/Knowledge-Base/issues/121)
