@@ -182,7 +182,9 @@ Explanation | 图例说明
 
 ### Nginx
 
-:white_check_mark: [Nginx 允许跨域请求](https://github.com/Dream4ever/Knowledge-Base/issues/127)
+:white_check_mark: [HTTP 请求头中的 Authorization 字段未被允许](https://github.com/Dream4ever/Knowledge-Base/issues/130)
+
+:white_check_mark: [Nginx 不允许跨域请求](https://github.com/Dream4ever/Knowledge-Base/issues/127)
 
 :white_check_mark: [Nginx OPTIONS 请求 405 错误](https://github.com/Dream4ever/Knowledge-Base/issues/126)
 
