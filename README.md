@@ -176,9 +176,15 @@ Explanation | 图例说明
 
 :white_check_mark: [Mongoose 异步执行](https://github.com/Dream4ever/knowledge-base/issues/32)
 
-:white_check_mark: [Nginx](https://github.com/Dream4ever/knowledge-base/issues/12)
-
 :white_check_mark: [限制 IP 访问指定路径](https://github.com/Dream4ever/knowledge-base/issues/20)
+
+### Nginx
+
+[Nginx OPTIONS 请求 405 错误](https://github.com/Dream4ever/Knowledge-Base/issues/126)
+
+:memo: [Nginx 保护网站资源](https://github.com/Dream4ever/Knowledge-Base/issues/122)
+
+:white_check_mark: [Nginx](https://github.com/Dream4ever/knowledge-base/issues/12)
 
 ### Go
 
@@ -203,8 +209,6 @@ Explanation | 图例说明
 :construction: [数据库选型：MySQL vs MongoDB](https://github.com/Dream4ever/Knowledge-Base/issues/104)
 
 ## Web Resource Protection | 网站资源保护
-
-:memo: [Nginx 保护网站资源](https://github.com/Dream4ever/Knowledge-Base/issues/122)
 
 :memo: [禁用浏览器开发者工具](https://github.com/Dream4ever/knowledge-base/issues/91)
 
