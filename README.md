@@ -180,11 +180,11 @@ Explanation | 图例说明
 
 ### Nginx
 
-[Nginx OPTIONS 请求 405 错误](https://github.com/Dream4ever/Knowledge-Base/issues/126)
+:white_check_mark: [Nginx OPTIONS 请求 405 错误](https://github.com/Dream4ever/Knowledge-Base/issues/126)
 
 :memo: [Nginx 保护网站资源](https://github.com/Dream4ever/Knowledge-Base/issues/122)
 
-:white_check_mark: [Nginx](https://github.com/Dream4ever/knowledge-base/issues/12)
+:white_check_mark: [Windows 下 Nginx 的安装、配置、持久化运行](https://github.com/Dream4ever/knowledge-base/issues/12)
 
 ### Go
 
