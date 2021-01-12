@@ -282,6 +282,8 @@ Explanation | 图例说明
 
 ## Software | 软件
 
+:white_check_mark: [FastCopy 使用笔记](https://github.com/Dream4ever/Knowledge-Base/issues/129)
+
 :white_check_mark: [CentOS 的生命周期](https://github.com/Dream4ever/Knowledge-Base/issues/108)
 
 :white_check_mark: [微软产品的生命周期](https://github.com/Dream4ever/Knowledge-Base/issues/71)
