@@ -260,6 +260,8 @@ Explanation | 图例说明
 
 ### IIS
 
+:memo: [IIS 管理跨域请求](https://github.com/Dream4ever/Knowledge-Base/issues/132)
+
 :white_check_mark: [IIS 中针对单个网站限速无效](https://github.com/Dream4ever/Knowledge-Base/issues/124)
 
 :white_check_mark: [IIS URL 重定向将 https 定向至 http](https://github.com/Dream4ever/Knowledge-Base/issues/123)
