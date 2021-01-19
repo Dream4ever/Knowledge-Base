@@ -250,7 +250,7 @@ Explanation | 图例说明
 
 :white_check_mark: [CentOS 内核版本辨析](https://github.com/Dream4ever/Knowledge-Base/issues/78)
 
-:white_check_mark: [Windows 下 Node.js 程序保活 - PM2 方案](https://github.com/Dream4ever/Knowledge-Base/issues/59)
+:white_check_mark: [Windows 下 Node.js 持久化 - PM2 方案 ](https://github.com/Dream4ever/Knowledge-Base/issues/59)
 
 :memo: [网站压力测试](https://github.com/Dream4ever/knowledge-base/issues/17)
 
