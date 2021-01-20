@@ -66,6 +66,8 @@ Explanation | 图例说明
 
 ### WeChat & QQ | 微信 & QQ
 
+:memo: [公司接入微信支付功能](https://github.com/Dream4ever/Knowledge-Base/issues/133)
+
 :white_check_mark: [禁止 X5 浏览器（手Q/微信）播放完视频后推荐相关内容](https://github.com/Dream4ever/Knowledge-Base/issues/87)
 
 :memo: [手机QQ/TIM页面title为空时的问题](https://github.com/Dream4ever/Knowledge-Base/issues/72)
