@@ -288,6 +288,8 @@ Explanation | 图例说明
 
 ## Software | 软件
 
+:memo: [PDF 自动转换为 JPEG](https://github.com/Dream4ever/Knowledge-Base/issues/134)
+
 :white_check_mark: [Linux 中对 tail -f 命令应用 grep](https://github.com/Dream4ever/Knowledge-Base/issues/131)
 
 :white_check_mark: [FastCopy 使用笔记](https://github.com/Dream4ever/Knowledge-Base/issues/129)
