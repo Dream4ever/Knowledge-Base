@@ -262,6 +262,8 @@ Explanation | 图例说明
 
 ### IIS
 
+:memo: [IIS URL重写至http(s)全部404，其余情况正常](https://github.com/Dream4ever/Knowledge-Base/issues/135)
+
 :memo: [IIS 管理跨域请求](https://github.com/Dream4ever/Knowledge-Base/issues/132)
 
 :white_check_mark: [IIS 中针对单个网站限速无效](https://github.com/Dream4ever/Knowledge-Base/issues/124)
