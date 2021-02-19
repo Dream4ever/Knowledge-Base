@@ -136,6 +136,8 @@ Explanation | 图例说明
 
 ### Vue
 
+:white_check_mark: [Vue-Cli 项目将本地环境模拟为线上环境](https://github.com/Dream4ever/Knowledge-Base/issues/138)
+
 :white_check_mark: [将 Vue-Cli 项目配置在网站的子路径下](https://github.com/Dream4ever/Knowledge-Base/issues/73)
 
 :memo: [一个 vue-cli 项目编译生成多个子项目](https://github.com/Dream4ever/knowledge-base/issues/46)
