@@ -204,6 +204,8 @@ Explanation | 图例说明
 
 ## Audio & Video | 音视频
 
+:white_check_mark: [手写一个音频播放器](https://github.com/Dream4ever/Knowledge-Base/issues/139)
+
 :white_check_mark: [微信内网页自动播放音频](https://github.com/Dream4ever/Knowledge-Base/issues/137)
 
 :white_check_mark: [加载音频时各事件触发顺序](https://github.com/Dream4ever/Knowledge-Base/issues/62)
