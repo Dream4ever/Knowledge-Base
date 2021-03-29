@@ -48,6 +48,8 @@ Explanation | 图例说明
 
 ### CSS
 
+:white_check_mark: [解决页面加载图片时的抖动问题](https://github.com/Dream4ever/Knowledge-Base/issues/141)
+
 :construction: [通过 CSS 区分桌面端和移动端](https://github.com/Dream4ever/Knowledge-Base/issues/115)
 
 :white_check_mark: [图片保持比例并最大化显示](https://github.com/Dream4ever/Knowledge-Base/issues/114)
