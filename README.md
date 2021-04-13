@@ -120,6 +120,8 @@ Explanation | 图例说明
 
 ## JavaScript
 
+:white_check_mark: [ExcelJS 在前端浏览器中读取 Excel 文件内容](https://github.com/Dream4ever/Knowledge-Base/issues/142)
+
 :white_check_mark: [统一代码及数据中的时区](https://github.com/Dream4ever/Knowledge-Base/issues/101)
 
 :white_check_mark: [在回调函数中访问“正确”的 this](https://github.com/Dream4ever/Knowledge-Base/issues/80)
