@@ -258,6 +258,8 @@ Explanation | 图例说明
 
 ## Server | 服务器
 
+:white_check_mark: [用 PowerShell 给 Windows 系统安装补丁并自动重启](https://github.com/Dream4ever/Knowledge-Base/issues/146)
+
 :white_check_mark: [PowerShell 调用阿里云 Cli 创建手动快照并重启实例](https://github.com/Dream4ever/Knowledge-Base/issues/143)
 
 :white_check_mark: [一个文件夹中最多能存放多少个文件？](https://github.com/Dream4ever/knowledge-base/issues/125)
