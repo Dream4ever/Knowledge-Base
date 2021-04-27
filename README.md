@@ -228,6 +228,8 @@ Explanation | 图例说明
 
 ### Database | 数据库
 
+:white_check_mark: [Mongoose unique 属性不生效](https://github.com/Dream4ever/Knowledge-Base/issues/147)
+
 :construction: [数据库选型：MySQL vs MongoDB](https://github.com/Dream4ever/Knowledge-Base/issues/104)
 
 ## Web Resource Protection | 网站资源保护
