@@ -188,8 +188,6 @@ Explanation | 图例说明
 
 :memo: [文件上传](https://github.com/Dream4ever/knowledge-base/issues/6)
 
-:white_check_mark: [Mongoose 异步执行](https://github.com/Dream4ever/knowledge-base/issues/32)
-
 :white_check_mark: [限制 IP 访问指定路径](https://github.com/Dream4ever/knowledge-base/issues/20)
 
 ### Nginx
@@ -231,6 +229,8 @@ Explanation | 图例说明
 :white_check_mark: [MongoDB 从数组型字段中选出符合要求的元素](https://github.com/Dream4ever/Knowledge-Base/issues/148)
 
 :white_check_mark: [Mongoose unique 属性不生效](https://github.com/Dream4ever/Knowledge-Base/issues/147)
+
+:white_check_mark: [Mongoose 异步执行](https://github.com/Dream4ever/knowledge-base/issues/32)
 
 :construction: [数据库选型：MySQL vs MongoDB](https://github.com/Dream4ever/Knowledge-Base/issues/104)
 
