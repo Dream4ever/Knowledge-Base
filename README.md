@@ -226,6 +226,8 @@ Explanation | 图例说明
 
 ### Database | 数据库
 
+:white_check_mark: [解决 MySQL CPU 占用高的问题](https://github.com/Dream4ever/Knowledge-Base/issues/149)
+
 :white_check_mark: [MongoDB 从数组型字段中选出符合要求的元素](https://github.com/Dream4ever/Knowledge-Base/issues/148)
 
 :white_check_mark: [Mongoose unique 属性不生效](https://github.com/Dream4ever/Knowledge-Base/issues/147)
