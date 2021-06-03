@@ -142,6 +142,8 @@ Explanation | 图例说明
 
 ### Vue
 
+:white_check_mark: [只在指定的 Vue 组件中加载外部 JS 文件](https://github.com/Dream4ever/Knowledge-Base/issues/150)
+
 :white_check_mark: [Vue-Cli 项目将本地环境模拟为线上环境](https://github.com/Dream4ever/Knowledge-Base/issues/138)
 
 :white_check_mark: [将 Vue-Cli 项目配置在网站的子路径下](https://github.com/Dream4ever/Knowledge-Base/issues/73)
