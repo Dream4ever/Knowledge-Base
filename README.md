@@ -18,6 +18,8 @@ Explanation | 图例说明
 
 ## Front-end | 前端
 
+:white_check_mark: [Vue-Cli / Ant Design Vue 项目打包体积优化](https://github.com/Dream4ever/Knowledge-Base/issues/151)
+
 :white_check_mark: [局域网内调试页面](https://github.com/Dream4ever/Knowledge-Base/issues/70)
 
 :construction: [利用 fingerprintjs2 区分用户设备](https://github.com/Dream4ever/Knowledge-Base/issues/61)
