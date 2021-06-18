@@ -144,6 +144,8 @@ Explanation | 图例说明
 
 ### Vue
 
+:white_check_mark: [Vue click 事件绑定函数中播放音频的代码失效](https://github.com/Dream4ever/Knowledge-Base/issues/153)
+
 :white_check_mark: [只在指定的 Vue 组件中加载外部 JS 文件](https://github.com/Dream4ever/Knowledge-Base/issues/150)
 
 :white_check_mark: [Vue-Cli 项目将本地环境模拟为线上环境](https://github.com/Dream4ever/Knowledge-Base/issues/138)
