@@ -264,6 +264,8 @@ Explanation | 图例说明
 
 ## Git
 
+:white_check_mark: [Git 将 local branch 与 remote branch 关联](https://github.com/Dream4ever/Knowledge-Base/issues/155)
+
 :white_check_mark: [GIT 获取文件最初创建及最新修改日期](https://github.com/Dream4ever/Knowledge-Base/issues/69)
 
 :memo: [Git hook 实现自动部署](https://github.com/Dream4ever/knowledge-base/issues/8)
