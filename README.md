@@ -70,7 +70,7 @@ Explanation | 图例说明
 
 ### WeChat & QQ | 微信 & QQ
 
-:white_check_mark: [网页字号不随微信 APP 设置而变化](https://github.com/Dream4ever/Knowledge-Base/issues/140)\
+:white_check_mark: [网页字号不随微信 APP 设置而变化](https://github.com/Dream4ever/Knowledge-Base/issues/140)
 
 :white_check_mark: [微信内网页静默获取 OpenID](https://github.com/Dream4ever/Knowledge-Base/issues/156)
 
