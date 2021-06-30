@@ -150,6 +150,8 @@ Explanation | 图例说明
 
 ### Vue
 
+:white_check_mark: [嵌套路由与 router-view](https://github.com/Dream4ever/Knowledge-Base/issues/159)
+
 :white_check_mark: [Vue click 事件绑定函数中播放音频的代码失效](https://github.com/Dream4ever/Knowledge-Base/issues/153)
 
 :white_check_mark: [只在指定的 Vue 组件中加载外部 JS 文件](https://github.com/Dream4ever/Knowledge-Base/issues/150)
