@@ -382,7 +382,7 @@ Explanation | 图例说明
 
 ## FFMpeg
 
-:white_check_mark: [FFProbe 用法示例](FFProbe 用法示例)
+:white_check_mark: [FFProbe 用法示例](https://github.com/Dream4ever/Knowledge-Base/issues/162)
 
 ### PDF
 
