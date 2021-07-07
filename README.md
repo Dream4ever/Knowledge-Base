@@ -380,6 +380,10 @@ Explanation | 图例说明
 
 :white_check_mark: [Ngrok](https://github.com/Dream4ever/knowledge-base/issues/49)
 
+## FFMpeg
+
+:white_check_mark: [FFProbe 用法示例](FFProbe 用法示例)
+
 ### PDF
 
 :white_check_mark: [Adobe Acrobat Pro 批量删除 PDF 元数据](https://github.com/Dream4ever/Knowledge-Base/issues/120)
