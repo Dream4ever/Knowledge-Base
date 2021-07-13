@@ -72,6 +72,8 @@ Explanation | 图例说明
 
 ### WeChat & QQ | 微信 & QQ
 
+:memo: [隐藏微信内页面底部导航栏](https://github.com/Dream4ever/Knowledge-Base/issues/163)
+
 :memo: [微信内网页标题变成“全文翻译”按钮](https://github.com/Dream4ever/Knowledge-Base/issues/158)
 
 :white_check_mark: [网页字号不随微信 APP 设置而变化](https://github.com/Dream4ever/Knowledge-Base/issues/140)
