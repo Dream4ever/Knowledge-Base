@@ -154,6 +154,8 @@ Explanation | 图例说明
 
 ### Vue
 
+:white_check_mark: [Vue 中的样式无法应用到 v-html 渲染的 DOM 中](https://github.com/Dream4ever/Knowledge-Base/issues/167)
+
 :white_check_mark: [向 Vue 中的 img 元素动态传入 src 值](https://github.com/Dream4ever/Knowledge-Base/issues/161)
 
 :white_check_mark: [嵌套路由与 router-view](https://github.com/Dream4ever/Knowledge-Base/issues/159)
