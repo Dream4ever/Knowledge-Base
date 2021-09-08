@@ -270,11 +270,9 @@ Explanation | 图例说明
 
 :white_check_mark: [Mongoose 异步执行](https://github.com/Dream4ever/knowledge-base/issues/32)
 
-## Web Resource Protection | 网站资源保护
+## Test | 测试
 
-:memo: [禁用浏览器开发者工具](https://github.com/Dream4ever/knowledge-base/issues/91)
-
-:memo: [网页正常显示图片的同时禁止下载](https://github.com/Dream4ever/knowledge-base/issues/92)
+:memo: [测试相关](https://github.com/Dream4ever/Knowledge-Base/issues/173)
 
 ## Debug | 调试
 
@@ -285,6 +283,12 @@ Explanation | 图例说明
 :white_check_mark: [让 Charles 监听 localhost 的 HTTP 请求](https://github.com/Dream4ever/Knowledge-Base/issues/93)
 
 :white_check_mark: [让 Charles 解析 HTTPS 请求](https://github.com/Dream4ever/Knowledge-Base/issues/94)
+
+## Web Resource Protection | 网站资源保护
+
+:memo: [禁用浏览器开发者工具](https://github.com/Dream4ever/knowledge-base/issues/91)
+
+:memo: [网页正常显示图片的同时禁止下载](https://github.com/Dream4ever/knowledge-base/issues/92)
 
 ## Full Stack | 全栈
 
