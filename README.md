@@ -214,8 +214,6 @@ Explanation | 图例说明
 
 :white_check_mark: [Windows 下 tusd 编译安装全流程](https://github.com/Dream4ever/Knowledge-Base/issues/75)
 
-:memo: [文件上传](https://github.com/Dream4ever/knowledge-base/issues/6)
-
 :white_check_mark: [限制 IP 访问指定路径](https://github.com/Dream4ever/knowledge-base/issues/20)
 
 ### Nginx
@@ -366,6 +364,10 @@ Explanation | 图例说明
 
 :white_check_mark: [SSL 双向认证以限制用户访问](https://github.com/Dream4ever/Knowledge-Base/issues/102)
 
+## Topics | 专题
+
+:memo: [文件上传](https://github.com/Dream4ever/knowledge-base/issues/6)
+
 ## Software | 软件
 
 :white_check_mark: [用 Prettier 格式化项目代码](https://github.com/Dream4ever/Knowledge-Base/issues/144)
@@ -398,7 +400,7 @@ Explanation | 图例说明
 
 :white_check_mark: [Ngrok](https://github.com/Dream4ever/knowledge-base/issues/49)
 
-## FFMpeg
+### FFMpeg
 
 :white_check_mark: [FFProbe 用法示例](https://github.com/Dream4ever/Knowledge-Base/issues/162)
 
