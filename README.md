@@ -384,7 +384,7 @@ Explanation | 图例说明
 
 :white_check_mark: [微软产品的生命周期](https://github.com/Dream4ever/Knowledge-Base/issues/71)
 
-:white_check_mark: [Windows 下安装配置 OpenSSH](https://github.com/Dream4ever/Knowledge-Base/issues/84)
+:white_check_mark: [Windows 下安装配置 OpenSSH 并通过 VSCode SSH 连接](https://github.com/Dream4ever/Knowledge-Base/issues/84)
 
 :white_check_mark: [通过 Mac 输出 iPhone 的画面和声音](https://github.com/Dream4ever/Knowledge-Base/issues/83)
 
