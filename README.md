@@ -1,5 +1,7 @@
 # Knowledge Base | 知识库
 
+![Alt](https://repobeats.axiom.co/api/embed/0e2b416fdcbc04bd34d93f03b49586bafbf6fb50.svg "Repobeats analytics image")
+
 Explanation | 图例说明
 
 > - :white_check_mark: : finished | 已完成
