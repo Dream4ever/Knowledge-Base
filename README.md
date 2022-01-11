@@ -378,6 +378,8 @@ Explanation | 图例说明
 
 ## Software | 软件
 
+✅ [ImageMagick 使用笔记](https://github.com/Dream4ever/Knowledge-Base/issues/178)
+
 :white_check_mark: [用 Prettier 格式化项目代码](https://github.com/Dream4ever/Knowledge-Base/issues/144)
 
 :memo: [Windows 下静默安装 Node.js](https://github.com/Dream4ever/Knowledge-Base/issues/145)
