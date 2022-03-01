@@ -138,7 +138,7 @@ Explanation | 图例说明
 
 ## JavaScript
 
-:white_check_mark: [调用压缩后的JS库的API](https://github.com/Dream4ever/Knowledge-Base/issues/179)
+:white_check_mark: [调用压缩后的 JS 库的 API](https://github.com/Dream4ever/Knowledge-Base/issues/179)
 
 :white_check_mark: [ExcelJS 在前端浏览器中读取 Excel 文件内容](https://github.com/Dream4ever/Knowledge-Base/issues/142)
 
