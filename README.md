@@ -258,13 +258,13 @@ Explanation | 图例说明
 
 :memo: [常规视频处理成流媒体](https://github.com/Dream4ever/knowledge-base/issues/22)
 
-### Database | 数据库
+## Database | 数据库
 
 :white_check_mark: [解决 MySQL CPU 占用高的问题](https://github.com/Dream4ever/Knowledge-Base/issues/149)
 
 :construction: [数据库选型：MySQL vs MongoDB](https://github.com/Dream4ever/Knowledge-Base/issues/104)
 
-#### MongoDB
+### MongoDB
 
 :white_check_mark: [MongoDB 查找指定字段值的字符串长度大于某个值的文档](https://github.com/Dream4ever/Knowledge-Base/issues/170)
 
