@@ -312,6 +312,8 @@ Explanation | 图例说明
 
 ## Git
 
+:white_check_mark: [Git 只追踪指定目录下的变更](https://github.com/Dream4ever/Knowledge-Base/issues/186)
+
 :white_check_mark: [命令行方式将 fork 项目与上游项目同步](https://github.com/Dream4ever/Knowledge-Base/issues/182)
 
 :white_check_mark: [Git 将 local branch 与 remote branch 关联](https://github.com/Dream4ever/Knowledge-Base/issues/155)
