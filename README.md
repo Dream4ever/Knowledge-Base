@@ -52,6 +52,8 @@ Explanation | 图例说明
 
 ### CSS
 
+:white_check_mark: [旧 iPhone 上图片被纵向拉得很长](https://github.com/Dream4ever/Knowledge-Base/issues/185)
+
 :white_check_mark: [响应式设计的屏幕尺寸断点](https://github.com/Dream4ever/Knowledge-Base/issues/171)
 
 :white_check_mark: [父元素 overflow hidden + 子元素正常滚动](https://github.com/Dream4ever/Knowledge-Base/issues/160)
