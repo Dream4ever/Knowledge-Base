@@ -168,6 +168,8 @@ Explanation | 图例说明
 
 ### Vue
 
+:white_check_mark: [Vue.js 动态加载组件并动态传参](https://github.com/Dream4ever/Knowledge-Base/issues/188)
+
 :white_check_mark: [Vue-Cli / Ant Design Vue 项目打包体积优化](https://github.com/Dream4ever/Knowledge-Base/issues/151)
 
 :white_check_mark: [Vue 中的样式无法应用到 v-html 渲染的 DOM 中](https://github.com/Dream4ever/Knowledge-Base/issues/167)
