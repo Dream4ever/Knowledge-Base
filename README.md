@@ -314,6 +314,10 @@ Explanation | 图例说明
 
 :construction: [nw.js 开发笔记](https://github.com/Dream4ever/Knowledge-Base/issues/66)
 
+## Code Style | 代码风格/规范
+
+:white_check_mark: [ESLint 根据操作系统决定合理的换行符样式](https://github.com/Dream4ever/Knowledge-Base/issues/189)
+
 ## Git
 
 :white_check_mark: [Git 只追踪指定目录下的变更](https://github.com/Dream4ever/Knowledge-Base/issues/186)
