@@ -20,6 +20,8 @@ Explanation | 图例说明
 
 ## Front-end | 前端
 
+:construction: [Google Analytics 4 使用记录](https://github.com/Dream4ever/Knowledge-Base/issues/191)
+
 :construction: [前端代码混淆](https://github.com/Dream4ever/Knowledge-Base/issues/180)
 
 :white_check_mark: [局域网内调试页面](https://github.com/Dream4ever/Knowledge-Base/issues/70)
