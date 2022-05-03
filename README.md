@@ -20,7 +20,7 @@ Explanation | 图例说明
 
 ## Front-end | 前端
 
-:construction: [Google Analytics 4 使用记录](https://github.com/Dream4ever/Knowledge-Base/issues/191)
+:construction: [Google Analytics 4(GA4) 使用记录](https://github.com/Dream4ever/Knowledge-Base/issues/191)
 
 :construction: [前端代码混淆](https://github.com/Dream4ever/Knowledge-Base/issues/180)
 
