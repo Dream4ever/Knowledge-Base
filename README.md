@@ -384,6 +384,8 @@ Explanation | 图例说明
 
 ### IIS
 
+:memo: [IIS 合理配置缓存](https://github.com/Dream4ever/Knowledge-Base/issues/197)
+
 :white_check_mark: [IIS 日志统计分析](https://github.com/Dream4ever/Knowledge-Base/issues/177)
 
 :memo: [IIS URL重写至http(s)全部404，其余情况正常](https://github.com/Dream4ever/Knowledge-Base/issues/135)
