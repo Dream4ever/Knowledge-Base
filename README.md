@@ -286,6 +286,8 @@ Explanation | 图例说明
 
 ## Database | 数据库
 
+:white_check_mark: [Windows 下修改 MySQL 数据库文件保存位置](https://github.com/Dream4ever/Knowledge-Base/issues/198)
+
 :white_check_mark: [解决 MySQL CPU 占用高的问题](https://github.com/Dream4ever/Knowledge-Base/issues/149)
 
 :construction: [数据库选型：MySQL vs MongoDB](https://github.com/Dream4ever/Knowledge-Base/issues/104)
