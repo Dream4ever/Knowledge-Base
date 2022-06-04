@@ -428,7 +428,9 @@ Explanation | 图例说明
 
 ## Software | 软件
 
-✅ [ImageMagick 使用笔记](https://github.com/Dream4ever/Knowledge-Base/issues/178)
+:white_check_mark: [用 iCloud Photos Downloader 备份数据至本地](https://github.com/Dream4ever/Knowledge-Base/issues/202)
+
+:white_check_mark: [ImageMagick 使用笔记](https://github.com/Dream4ever/Knowledge-Base/issues/178)
 
 :white_check_mark: [用 Prettier 格式化项目代码](https://github.com/Dream4ever/Knowledge-Base/issues/144)
 
