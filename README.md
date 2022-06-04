@@ -56,6 +56,8 @@ Explanation | 图例说明
 
 ### CSS
 
+:white_check_mark: [CSS 实现输入光标闪烁动画](https://github.com/Dream4ever/Knowledge-Base/issues/203)
+
 [让 tailwindcss 的任意值在 React 中生效](https://github.com/Dream4ever/Knowledge-Base/issues/201)
 
 :white_check_mark: [让浏览器显示小于 12px 的字体](https://github.com/Dream4ever/Knowledge-Base/issues/200)
