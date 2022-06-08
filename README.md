@@ -326,6 +326,10 @@ Explanation | 图例说明
 
 :white_check_mark: [Mongoose 异步执行](https://github.com/Dream4ever/knowledge-base/issues/32)
 
+## Docker
+
+:white_check_mark: [修改 Windows Server 自带 Docker 的 registry](https://github.com/Dream4ever/Knowledge-Base/issues/209)
+
 ## Test | 测试
 
 :memo: [测试相关](https://github.com/Dream4ever/Knowledge-Base/issues/173)
