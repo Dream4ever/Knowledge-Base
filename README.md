@@ -268,18 +268,6 @@ Explanation | 图例说明
 
 :white_check_mark: [解决 res.redirect 部分失败的问题](https://github.com/Dream4ever/knowledge-base/issues/27)：根本问题已被上面的方法所解决
 
-### Nginx
-
-:white_check_mark: [HTTP 请求头中的 Authorization 字段未被允许](https://github.com/Dream4ever/Knowledge-Base/issues/130)
-
-:white_check_mark: [Nginx 不允许跨域请求](https://github.com/Dream4ever/Knowledge-Base/issues/127)
-
-:white_check_mark: [Nginx OPTIONS 请求 405 错误](https://github.com/Dream4ever/Knowledge-Base/issues/126)
-
-:memo: [Nginx 保护网站资源](https://github.com/Dream4ever/Knowledge-Base/issues/122)
-
-:white_check_mark: [Windows 下 Nginx 的安装、配置、持久化运行](https://github.com/Dream4ever/knowledge-base/issues/12)
-
 ### Go
 
 :white_check_mark: [解决 go get 太慢的问题](https://github.com/Dream4ever/Knowledge-Base/issues/74)
@@ -375,6 +363,20 @@ Explanation | 图例说明
 ## Server | 服务器
 
 :memo: [网站压力测试](https://github.com/Dream4ever/knowledge-base/issues/17)
+
+### Nginx
+
+:white_check_mark: [Nginx 可视化配置工具](https://github.com/Dream4ever/Knowledge-Base/issues/210)
+
+:white_check_mark: [HTTP 请求头中的 Authorization 字段未被允许](https://github.com/Dream4ever/Knowledge-Base/issues/130)
+
+:white_check_mark: [Nginx 不允许跨域请求](https://github.com/Dream4ever/Knowledge-Base/issues/127)
+
+:white_check_mark: [Nginx OPTIONS 请求 405 错误](https://github.com/Dream4ever/Knowledge-Base/issues/126)
+
+:memo: [Nginx 保护网站资源](https://github.com/Dream4ever/Knowledge-Base/issues/122)
+
+:white_check_mark: [Windows 下 Nginx 的安装、配置、持久化运行](https://github.com/Dream4ever/knowledge-base/issues/12)
 
 ### PowerShell
 
