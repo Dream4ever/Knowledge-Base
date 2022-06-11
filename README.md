@@ -166,6 +166,10 @@ Explanation | 图例说明
 
 :white_check_mark: [用户访问一级域名时自动重定向至 www 二级域名](https://github.com/Dream4ever/Knowledge-Base/issues/107)
 
+### Scaffold-ETH
+
+:white_check_mark: [Scaffold-ETH 脚手架运行前端部分时报错：'react-scripts' 不是内部或外部命令，也不是可运行的程序或批处理文件](https://github.com/Dream4ever/Knowledge-Base/issues/211)
+
 ## JavaScript
 
 :white_check_mark: [JS 判断用户在触摸屏上的滑动方向](https://github.com/Dream4ever/Knowledge-Base/issues/205)
