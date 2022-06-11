@@ -168,6 +168,8 @@ Explanation | 图例说明
 
 ### Scaffold-ETH
 
+:white_check_mark: [Scaffold-ETH 脚手架运行时报错：Can't resolve 'react-refresh/runtime' in Error from chokidar (C:\): Error: EBUSY: resource busy or locked, lstat 'C:\DumpStack.log.tmp](https://github.com/Dream4ever/Knowledge-Base/issues/212)
+
 :white_check_mark: [Scaffold-ETH 脚手架运行前端部分时报错：'react-scripts' 不是内部或外部命令，也不是可运行的程序或批处理文件](https://github.com/Dream4ever/Knowledge-Base/issues/211)
 
 ## JavaScript
