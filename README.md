@@ -20,6 +20,8 @@ Explanation | 图例说明
 
 ## Front-end | 前端
 
+:construction: [JS 区分鼠标和触摸板](https://github.com/Dream4ever/Knowledge-Base/issues/213)
+
 :construction: [美化 PDF 浏览页面](https://github.com/Dream4ever/Knowledge-Base/issues/192)
 
 :construction: [Google Analytics 4(GA4) 使用笔记](https://github.com/Dream4ever/Knowledge-Base/issues/191)
