@@ -46,8 +46,6 @@ Explanation | 图例说明
 
 :white_check_mark: [优选移动端 UI 框架](https://github.com/Dream4ever/knowledge-base/issues/10)
 
-:white_check_mark: [Puppeteer 批量自动生成并保存二维码](https://github.com/Dream4ever/knowledge-base/issues/54)
-
 ### Compatibility | 兼容性
 
 :white_check_mark: [Bootstrap 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/113)
@@ -251,6 +249,8 @@ Explanation | 图例说明
 :white_check_mark: [Create React App 配置静态资源文件相对路径](https://github.com/Dream4ever/Knowledge-Base/issues/183)
 
 ### Qrcode | 二维码
+
+:white_check_mark: [Puppeteer 批量自动生成并保存二维码](https://github.com/Dream4ever/knowledge-base/issues/54)
 
 :white_check_mark: [草料二维码之活码原理分析](https://github.com/Dream4ever/Knowledge-Base/issues/103)
 
