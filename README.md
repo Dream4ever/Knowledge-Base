@@ -250,6 +250,8 @@ Explanation | 图例说明
 
 ### Qrcode | 二维码
 
+:white_check_mark: [前端生成二维码并检查](https://github.com/Dream4ever/Knowledge-Base/issues/216)
+
 :white_check_mark: [Puppeteer 批量自动生成并保存二维码](https://github.com/Dream4ever/knowledge-base/issues/54)
 
 :white_check_mark: [草料二维码之活码原理分析](https://github.com/Dream4ever/Knowledge-Base/issues/103)
