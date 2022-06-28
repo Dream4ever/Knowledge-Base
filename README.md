@@ -20,8 +20,6 @@ Explanation | 图例说明
 
 ## Front-end | 前端
 
-:construction: [JS 区分鼠标和触摸板](https://github.com/Dream4ever/Knowledge-Base/issues/213)
-
 :construction: [美化 PDF 浏览页面](https://github.com/Dream4ever/Knowledge-Base/issues/192)
 
 :construction: [Google Analytics 4(GA4) 使用笔记](https://github.com/Dream4ever/Knowledge-Base/issues/191)
@@ -54,7 +52,7 @@ Explanation | 图例说明
 
 :white_check_mark: [IE 兼容：X-UA-Compatible 标签](https://github.com/Dream4ever/Knowledge-Base/issues/111)
 
-### Ant Design Vue 相关
+### Ant Design Vue
 
 :white_check_mark: [让 Ant Design Vue 组件内显示的文字可换行](https://github.com/Dream4ever/Knowledge-Base/issues/208)
 
@@ -177,6 +175,10 @@ Explanation | 图例说明
 :white_check_mark: [Scaffold-ETH 脚手架运行前端部分时报错：'react-scripts' 不是内部或外部命令，也不是可运行的程序或批处理文件](https://github.com/Dream4ever/Knowledge-Base/issues/211)
 
 ## JavaScript
+
+:white_check_mark: [将 Base64 格式的图片转换为 Blob](https://github.com/Dream4ever/Knowledge-Base/issues/217)
+
+:construction: [JS 区分鼠标和触摸板](https://github.com/Dream4ever/Knowledge-Base/issues/213)
 
 :white_check_mark: [JS 判断用户在触摸屏上的滑动方向](https://github.com/Dream4ever/Knowledge-Base/issues/205)
 
