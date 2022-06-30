@@ -62,6 +62,8 @@ Explanation | 图例说明
 
 ### CSS
 
+:white_check_mark: [部分 TailwindCSS 样式在 React 中不生效](https://github.com/hipstersmoothie/obsidian-plugin-toc)
+
 :white_check_mark: [使用 CSS 让正方形绕中心旋转 45 度](https://github.com/Dream4ever/Knowledge-Base/issues/204)
 
 :white_check_mark: [CSS 实现输入光标闪烁动画](https://github.com/Dream4ever/Knowledge-Base/issues/203)
