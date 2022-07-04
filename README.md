@@ -46,6 +46,8 @@ Explanation | 图例说明
 
 ### Compatibility | 兼容性
 
+:white_check_mark: [Vue 3 的浏览器兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/219)
+
 :white_check_mark: [Bootstrap 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/113)
 
 :white_check_mark: [jQuery 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/112)
