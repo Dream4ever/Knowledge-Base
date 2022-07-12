@@ -20,8 +20,6 @@ Explanation | 图例说明
 
 :construction: [利用 fingerprintjs2 区分用户设备](https://github.com/Dream4ever/Knowledge-Base/issues/61)
 
-:memo: [各类统计数据 - 用于兼容性研究](https://github.com/Dream4ever/knowledge-base/issues/51)
-
 :fire: [前端页面文本搜索及高亮](https://github.com/Dream4ever/knowledge-base/issues/4)
 
 :memo: [Skeleton Screen Loading](https://github.com/Dream4ever/knowledge-base/issues/2)
