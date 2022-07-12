@@ -38,8 +38,6 @@ Explanation | 图例说明
 
 :white_check_mark: [jQuery 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/112)
 
-:white_check_mark: [IE 兼容：X-UA-Compatible 标签](https://github.com/Dream4ever/Knowledge-Base/issues/111)
-
 ### Ant Design Vue
 
 :white_check_mark: [让 Ant Design Vue 组件内显示的文字可换行](https://github.com/Dream4ever/Knowledge-Base/issues/208)
