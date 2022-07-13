@@ -38,14 +38,6 @@ Explanation | 图例说明
 
 :white_check_mark: [jQuery 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/112)
 
-### Ant Design Vue
-
-:white_check_mark: [让 Ant Design Vue 组件内显示的文字可换行](https://github.com/Dream4ever/Knowledge-Base/issues/208)
-
-:white_check_mark: [Ant Design Vue/AntdV 嵌套子表格显示所属父表格数据](https://github.com/Dream4ever/Knowledge-Base/issues/207)
-
-:white_check_mark: [Ant Design Vue/AntdV 嵌套子表格默认全部展开](https://github.com/Dream4ever/Knowledge-Base/issues/206)
-
 ### CSS
 
 :white_check_mark: [使用 CSS 让正方形绕中心旋转 45 度](https://github.com/Dream4ever/Knowledge-Base/issues/204)
