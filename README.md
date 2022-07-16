@@ -32,12 +32,6 @@ Explanation | 图例说明
 
 :white_check_mark: [优选移动端 UI 框架](https://github.com/Dream4ever/knowledge-base/issues/10)
 
-### Compatibility | 兼容性
-
-:white_check_mark: [Bootstrap 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/113)
-
-:white_check_mark: [jQuery 兼容性](https://github.com/Dream4ever/Knowledge-Base/issues/112)
-
 ### CSS
 
 :white_check_mark: [移除旧版 iOS Safari input/textarea 控件上方的阴影效果](https://github.com/Dream4ever/Knowledge-Base/issues/196)
