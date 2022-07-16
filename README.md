@@ -34,8 +34,6 @@ Explanation | 图例说明
 
 ### CSS
 
-:white_check_mark: [移除旧版 iOS Safari input/textarea 控件上方的阴影效果](https://github.com/Dream4ever/Knowledge-Base/issues/196)
-
 :white_check_mark: [iOS Safari 100vh 页面高度被遮挡](https://github.com/Dream4ever/Knowledge-Base/issues/195)
 
 :white_check_mark: [使元素保持长宽比](https://github.com/Dream4ever/Knowledge-Base/issues/194)
