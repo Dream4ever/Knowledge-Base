@@ -28,8 +28,6 @@ Explanation | 图例说明
 
 ### CSS
 
-:white_check_mark: [iOS Safari 100vh 页面高度被遮挡](https://github.com/Dream4ever/Knowledge-Base/issues/195)
-
 :white_check_mark: [使元素保持长宽比](https://github.com/Dream4ever/Knowledge-Base/issues/194)
 
 :white_check_mark: [旧 iPhone 上图片被纵向拉得很长](https://github.com/Dream4ever/Knowledge-Base/issues/185)
