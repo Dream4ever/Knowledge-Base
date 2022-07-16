@@ -9,8 +9,6 @@ Explanation | 图例说明
 > - :memo: : to do | 待完成
 >
 > - :fire: : cancelled | 已放弃或已取消
-> 
-> - :package: 已收录至个人博客中
 
 ## Front-end | 前端
 
