@@ -28,8 +28,6 @@ Explanation | 图例说明
 
 :white_check_mark: [浏览器控制台 get favicon.ico 404 提示](https://github.com/Dream4ever/knowledge-base/issues/34)
 
-:white_check_mark: [优选移动端 UI 框架](https://github.com/Dream4ever/knowledge-base/issues/10)
-
 ### CSS
 
 :white_check_mark: [iOS Safari 100vh 页面高度被遮挡](https://github.com/Dream4ever/Knowledge-Base/issues/195)
