@@ -454,14 +454,6 @@ Explanation | 图例说明
 
 :white_check_mark: [Ngrok](https://github.com/Dream4ever/knowledge-base/issues/49)
 
-### FFMpeg
-
-:white_check_mark: [用 FFmpeg 合并视频文件](https://github.com/Dream4ever/Knowledge-Base/issues/176)
-
-:white_check_mark: [将 10-bit H.265 / HEVC 视频转换为 H.264](https://github.com/Dream4ever/Knowledge-Base/issues/175)
-
-:white_check_mark: [FFProbe 用法示例](https://github.com/Dream4ever/Knowledge-Base/issues/162)
-
 ### PDF
 
 :white_check_mark: [Adobe Acrobat Pro 批量删除 PDF 元数据](https://github.com/Dream4ever/Knowledge-Base/issues/120)
