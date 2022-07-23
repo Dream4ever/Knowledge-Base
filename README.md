@@ -1,4 +1,4 @@
-g# Knowledge Base | 知识库
+# Knowledge Base | 知识库
 
 Explanation | 图例说明
 
