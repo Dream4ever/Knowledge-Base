@@ -20,8 +20,6 @@ Explanation | 图例说明
 
 :fire: [前端页面文本搜索及高亮](https://github.com/Dream4ever/knowledge-base/issues/4)
 
-:white_check_mark: [移动端点击表单元素后弹出输入法遮盖界面](https://github.com/Dream4ever/knowledge-base/issues/40)
-
 :white_check_mark: [浏览器控制台 get favicon.ico 404 提示](https://github.com/Dream4ever/knowledge-base/issues/34)
 
 ### CSS
