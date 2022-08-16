@@ -278,7 +278,7 @@ Explanation | 图例说明
 
 ## Docker
 
-:white_check_mark: [在 Windows Docker 中运行基于 Linux 的镜像](https://github.com/Dream4ever/Knowledge-Base/issues/214)
+:white_check_mark: [在 Windows Docker 中下载基于 Linux 的镜像](https://github.com/Dream4ever/Knowledge-Base/issues/214)
 
 :white_check_mark: [修改 Windows Server 自带 Docker 的 registry](https://github.com/Dream4ever/Knowledge-Base/issues/209)
 
