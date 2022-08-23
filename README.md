@@ -420,7 +420,7 @@ Explanation | 图例说明
 
 :memo: [Windows 下静默安装 Node.js](https://github.com/Dream4ever/Knowledge-Base/issues/145)
 
-:memo: [PDF 自动转换为 JPEG](https://github.com/Dream4ever/Knowledge-Base/issues/134)
+:memo: [PDF 另存为/转换为 JPEG](https://github.com/Dream4ever/Knowledge-Base/issues/134)
 
 :white_check_mark: [FastCopy 使用笔记](https://github.com/Dream4ever/Knowledge-Base/issues/129)
 
