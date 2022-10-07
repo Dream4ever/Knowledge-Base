@@ -366,8 +366,6 @@ Explanation | 图例说明
 
 [PM2 日志自动切割](https://github.com/Dream4ever/Knowledge-Base/issues/152)
 
-:white_check_mark: [Windows 下 Node.js 持久化 - PM2 方案 ](https://github.com/Dream4ever/Knowledge-Base/issues/59)
-
 ### IIS
 
 :white_check_mark: [IIS 合理配置缓存](https://github.com/Dream4ever/Knowledge-Base/issues/197)
