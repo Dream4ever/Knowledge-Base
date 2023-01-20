@@ -48,8 +48,6 @@ Explanation | 图例说明
 
 ### WeChat & QQ | 微信 & QQ
 
-:white_check_mark: [自定义微信/QQ分享链接给好友/朋友圈/QQ空间的卡片样式](https://github.com/Dream4ever/Knowledge-Base/issues/174)
-
 :memo: [隐藏微信内页面底部导航栏](https://github.com/Dream4ever/Knowledge-Base/issues/163)
 
 :memo: [微信内网页标题变成“全文翻译”按钮](https://github.com/Dream4ever/Knowledge-Base/issues/158)
