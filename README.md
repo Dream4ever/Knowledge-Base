@@ -52,8 +52,6 @@ Explanation | 图例说明
 
 :memo: [微信内网页标题变成“全文翻译”按钮](https://github.com/Dream4ever/Knowledge-Base/issues/158)
 
-:white_check_mark: [网页字号不随微信 APP 设置而变化](https://github.com/Dream4ever/Knowledge-Base/issues/140)
-
 :white_check_mark: [微信内网页授权获取用户信息](https://github.com/Dream4ever/Knowledge-Base/issues/157)
 
 :white_check_mark: [微信内网页静默获取 OpenID](https://github.com/Dream4ever/Knowledge-Base/issues/156)
