@@ -276,7 +276,7 @@ Explanation | 图例说明
 
 :white_check_mark: [让 Charles 监听 localhost 的 HTTP 请求](https://github.com/Dream4ever/Knowledge-Base/issues/93)
 
-:white_check_mark: [让 Charles 解析 HTTPS 请求](https://github.com/Dream4ever/Knowledge-Base/issues/94)
+:white_check_mark: [让 Charles 解析 HTTPS 请求：Windows/Chrome/macOS/iOS](https://github.com/Dream4ever/Knowledge-Base/issues/94)
 
 ## Web Resource Protection | 网站资源保护
 
